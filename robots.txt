@@ -1,1 +1,1 @@
-Sitemap: https://greenelab.github.io/lab-website-template/sitemap.xml
+Sitemap: https://florinneuro.github.io/ag-florin-website/sitemap.xml
