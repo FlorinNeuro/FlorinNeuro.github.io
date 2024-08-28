@@ -1,1 +1,1 @@
-Sitemap: https://florinneuro.github.io/ag-florin-website/sitemap.xml
+Sitemap: https://florinneuro.github.io/sitemap.xml
