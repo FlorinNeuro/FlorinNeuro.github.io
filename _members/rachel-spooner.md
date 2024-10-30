@@ -1,8 +1,9 @@
-<!-- ---
+---
 name: Rachel K. Spooner
-image: images/team/Spooner.jpg
+# image: images/team/Spooner.jpg
+image: images/team/alumni.png
 role: postdoc
-alumni: false
+alumni: true
 links:
   orcid: 0000-0002-6209-4386
   email: rachel.spooner@boystown.org
@@ -10,4 +11,4 @@ links:
   google-scholar: sRnFXbgAAAAJ
 ---
 
-Rachel K. Spooner, PhD -->
+Rachel K. Spooner, PhD
