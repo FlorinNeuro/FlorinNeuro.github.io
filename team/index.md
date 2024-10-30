@@ -17,9 +17,9 @@ nav:
 <br>
 {% include list.html data="members" component="portrait" filters="role: shk, alumni: false" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
+{% include section.html %}
 
-# Alumni
+# {% include icon.html icon="fa-solid fa-user-graduate" %} Alumni
 
 {% include section.html %}
 
