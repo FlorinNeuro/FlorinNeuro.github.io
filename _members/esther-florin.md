@@ -2,6 +2,7 @@
 name: Esther Florin
 image: images/team/Florin.jpg
 role: pi
+alumni: false
 links:
   orcid: 0000-0001-8276-2508
   email: Esther.Florin@med.uni-duesseldorf.de

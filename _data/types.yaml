@@ -14,9 +14,25 @@ phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
 
+md:
+  icon: fa-solid fa-stethoscope
+  description: Medical Student
+
 undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
+
+undergrad-master:
+  icon: fa-solid fa-user-graduate
+  description: Master Student
+
+undergrad-bachelor:
+  icon: fa-solid fa-user-graduate
+  description: Bachelor Student
+
+shk:
+  icon: fa-solid fa-flask
+  description: Research Assistant
 
 programmer:
   icon: fa-solid fa-code
