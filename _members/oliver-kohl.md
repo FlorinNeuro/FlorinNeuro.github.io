@@ -1,6 +1,6 @@
 ---
 name: Oliver Kohl
-image: images/team/default.png
+image: images/team/Kohl.jpg
 role: postdoc
 alumni: false
 links:

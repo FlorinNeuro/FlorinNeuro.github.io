@@ -1,6 +1,6 @@
 ---
 name: Jan Schalla
-image: images/team/default.png
+image: images/team/Schalla.jpg
 role: phd
 alumni: false
 links:
