@@ -1,8 +1,8 @@
 ---
-name: Lena Spritz
+name: Lena Spitz
 image: images/team/default.png
 role: md
 alumni: false
 ---
 
-Lena Spritz (cand. med.)
+Lena Spitz (cand. med.)
