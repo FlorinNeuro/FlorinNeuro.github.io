@@ -1,6 +1,6 @@
 ---
 name: Ben Blankenheim
-image: images/team/default.png
+image: images/team/Blankenheim.jpeg
 role: undergrad-bachelor
 alumni: false
 links:
