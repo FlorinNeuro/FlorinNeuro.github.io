@@ -1,47 +1,154 @@
-- title: Cool Dataset
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+##########
+# pd-dbs #
+##########
+- title: How Does DBS Work?
+  group: pd-dbs
+  # image: images/photo.jpg
+  link: research/dbs
+  description: While deep brain stimulation (**DBS**) is a successful symptomatic treatment of Parkinson’s disease, its mechanisms are still not understood.
   tags:
-    - resource
+    - hpMEG
+    - DBS
+    - LFP
 
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: How can we optimise the effectiveness of DBS?
+  # subtitle: Deep Brain Stimulation in Parkinson's Disease
+  group: pd-dbs
+  # image: images/photo.jpg
+  link: research/dbs-improvement
+  description: TODO
   tags:
-    - resource
+    - MEG
+    - DBS
+    - clinical-symptoms
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Perspectives
+  # subtitle: Deep Brain Stimulation in Parkinson's Disease
+  group: pd-dbs
+  # image: images/photo.jpg
+  link: research/dbs-perspectives
+  description: Exciting, fresh, ongoing work !
   tags:
-    - resource
-    - publication
+    - hpMEG
+    - LFP
+    - DBS
+    - task-based
+    - clinical-symptoms
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+##########
+# pd-nms #
+##########
+- title: Cognitive effects in PD
+  group: pd-nms
+  # image: images/photo.jpg
+  link: research/nms-cognition
+  description: TODO
   tags:
-    - software
+    - MEG
+    - LFP
+    - DBS
+    - task-based
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Pain in PD
+  group: pd-nms
+  # image: images/photo.jpg
+  link: research/nms-pain
+  description: TODO
   tags:
-    - software
+    - MEG
+    - task-based
+
+- title: Perspectives
+  group: pd-nms
+  # image: images/photo.jpg
+  link: research/nms-perspectives
+  description: TODO
+  tags:
+    - MEG
+    - task-based
+
+##########
+# pd-bn #
+##########
+- title: Electrophysiological Resting State Networks
+  group: pd-bn
+  # image: images/photo.jpg
+  link: research/bn-rsn
+  description: TODO
+  tags:
+    - MEG
+
+- title: Relation of spontaneous network activity to task performance
+  group: pd-bn
+  # image: images/photo.jpg
+  link: research/bn-task
+  description: TODO
+  tags:
+    - MEG
+    - task-based
+
+- title: Causal interference
+  group: pd-bn
+  # image: images/photo.jpg
+  link: research/bn-causality
+  description: TODO
+  tags:
+    - MEG
+    - LFP
+
+- title: Perspectives
+  group: pd-bn
+  # image: images/photo.jpg
+  link: research/bn-perspectives
+  description: TODO
+  tags:
+    - MEG
+    - LFP
+
+###########
+# methods #
+########### hpMEG, MEG, LFP, DBS, task-based, clinical-symptoms
+- title: hpMEG
+  group: methods
+  # image: images/photo.jpg
+  link: research/bn-hpmeg
+  description: TODO
+  tags:
+    - hpMEG
+    - method
+
+- title: MEG
+  group: methods
+  # image: images/photo.jpg
+  link: research/method-meg
+  description: TODO
+  tags:
+    - MEG
+    - method
+
+- title: LFP
+  group: methods
+  # image: images/photo.jpg
+  link: research/method-lfp
+  description: TODO
+  tags:
+    - LFP
+    - method
+
+- title: task-based
+  group: methods
+  # image: images/photo.jpg
+  link: research/method-task
+  description: TODO
+  tags:
+    - task-based
+    - method
+
+- title: clinical-symptoms
+  group: methods
+  # image: images/photo.jpg
+  link: research/method-symptoms
+  description: TODO
+  tags:
+    - clinical-symptoms
+    - method

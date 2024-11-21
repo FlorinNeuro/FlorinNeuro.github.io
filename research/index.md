@@ -2,26 +2,39 @@
 title: Research
 nav:
   order: 2
-  tooltip: Software, datasets, and more
+  tooltip: Research topics, methods, and more
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Research
+# {% include icon.html icon="fa-solid fa-search" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our research aim is to understand cognition and behavior in healthy subjects and neurological patients. Therefore we identify mechanisms of communication and network dynamics within the human brain.  For this aim our lab uses M/EEG to non-invasively investigate brain function. We combine these recordings in patients with invasive LFP recordings.
 
-{% include tags.html tags="publication, resource, website" %}
+{% include tags.html tags="hpMEG, MEG, LFP, DBS, task-based, clinical-symptoms, method" %}
 
 {% include search-info.html %}
 
 {% include section.html %}
 
-## Methods
+## Deep Brain Stimulation in Parkinson's Disease
 
-{% include list.html component="card" data="projects" filters="group: featured" %}
+{% include list.html component="card" data="projects" filters="group: pd-dbs" style="large" %}
 
 {% include section.html %}
 
-## Topics
+## Non-Motor Symptoms of Parkinson's Disease
 
-{% include list.html component="card" data="projects" filters="group: " style="small" %}
+{% include list.html component="card" data="projects" filters="group: pd-nms" style="large" %}
+
+{% include section.html %}
+
+## Brain Networks in Parkinson's Disease
+
+{% include list.html component="card" data="projects" filters="group: pd-bn" style="large" %}
+
+{% include section.html background="images/background.jpg" dark="true" %}
+
+# {% include icon.html icon="fa-solid fa-wrench" %}Methods
+
+{% include section.html %}
+
+{% include list.html component="card" data="projects" filters="group: methods" style="small" %}

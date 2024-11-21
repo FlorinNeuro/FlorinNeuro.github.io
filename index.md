@@ -64,7 +64,7 @@ Spend less time worrying about managing a website and citations, and more time r
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/bahners2022.jpg"
   link="research"
   title="Our Research"
   text=text

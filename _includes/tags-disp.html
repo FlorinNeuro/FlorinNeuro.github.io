@@ -1,0 +1,19 @@
+{% assign tags = include.tags
+| object_items
+| join: ","
+| split: ","
+| array_filter
+| join: ","
+| regex_replace: "\s+", "-"
+| split: ","
+| uniq
+%}
+{% if tags.size > 0 or include.repo %}
+<div class="tags" {% if include.repo %} data-repo="{{ include.repo }}" {% endif %}>
+    {% for tag in tags %}
+    <a class="tag">
+        {{ tag }}
+    </a>
+    {% endfor %}
+</div>
+{% endif %}
