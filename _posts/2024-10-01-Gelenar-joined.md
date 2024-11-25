@@ -1,7 +1,7 @@
 ---
 title: Welcome Julia Gelenar Marae
 author: Jan Schalla
-image: images/team/Marae.jpg
+image: images/team/Marae.png
 tags: 
 - People
 last_modified_at: ""
