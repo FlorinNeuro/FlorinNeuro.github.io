@@ -3,9 +3,9 @@ title: Gelenar won 2nd place for her Poster at DGN
 image: images/news/logo-retune.png
 author: Jan Schalla
 tags: 
-  - hpMEG
-  - Head cast
-  - CRC 295
+  - Poster
+  - Conference
+  - MEG
 last_modified_at: ""
 ---
 
