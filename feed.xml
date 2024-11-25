@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://florinneuro.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://florinneuro.github.io/" rel="alternate" type="text/html" /><updated>2024-11-25T10:07:08+00:00</updated><id>https://florinneuro.github.io/feed.xml</id><title type="html">Florin Lab</title><subtitle>Website of Esther Florin&apos;s Neuroscience lab at the University Clinic of Düsseldorf (UKD).</subtitle><entry><title type="html">Gelenar won 2nd place for her Poster at DGN</title><link href="https://florinneuro.github.io/2024/11/09/DGN-2ndPlace-Poster-Gelenar.html" rel="alternate" type="text/html" title="Gelenar won 2nd place for her Poster at DGN" /><published>2024-11-09T00:00:00+00:00</published><updated>2024-11-09T00:00:00+00:00</updated><id>https://florinneuro.github.io/2024/11/09/DGN-2ndPlace-Poster-Gelenar</id><content type="html" xml:base="https://florinneuro.github.io/2024/11/09/DGN-2ndPlace-Poster-Gelenar.html"><![CDATA[<!-- excerpt start -->
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://florinneuro.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://florinneuro.github.io/" rel="alternate" type="text/html" /><updated>2024-11-25T10:09:17+00:00</updated><id>https://florinneuro.github.io/feed.xml</id><title type="html">Florin Lab</title><subtitle>Website of Esther Florin&apos;s Neuroscience lab at the University Clinic of Düsseldorf (UKD).</subtitle><entry><title type="html">Gelenar won 2nd place for her Poster at DGN</title><link href="https://florinneuro.github.io/2024/11/09/DGN-2ndPlace-Poster-Gelenar.html" rel="alternate" type="text/html" title="Gelenar won 2nd place for her Poster at DGN" /><published>2024-11-09T00:00:00+00:00</published><updated>2024-11-09T00:00:00+00:00</updated><id>https://florinneuro.github.io/2024/11/09/DGN-2ndPlace-Poster-Gelenar</id><content type="html" xml:base="https://florinneuro.github.io/2024/11/09/DGN-2ndPlace-Poster-Gelenar.html"><![CDATA[<!-- excerpt start -->
 <p>Congrats to Gelenar, she was just awarded 2nd place for her poster on auditory cortex engagement during silent reading at the Conference from the “Deutsche Gesellschaft für Neurologie” (DGN) in Berlin.
 <!-- excerpt end --></p>]]></content><author><name>Jan Schalla</name></author><category term="Poster" /><category term="Conference" /><category term="MEG" /><summary type="html"><![CDATA[Congrats to Gelenar, she was just awarded 2nd place for her poster on auditory cortex engagement during silent reading at the Conference from the “Deutsche Gesellschaft für Neurologie” (DGN) in Berlin.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://florinneuro.github.io/images/news/default.jpg" /><media:content medium="image" url="https://florinneuro.github.io/images/news/default.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">First Duesseldorfer In-House Head cast</title><link href="https://florinneuro.github.io/2024/11/01/headcast-first.html" rel="alternate" type="text/html" title="First Duesseldorfer In-House Head cast" /><published>2024-11-01T00:00:00+00:00</published><updated>2024-11-01T00:00:00+00:00</updated><id>https://florinneuro.github.io/2024/11/01/headcast-first</id><content type="html" xml:base="https://florinneuro.github.io/2024/11/01/headcast-first.html"><![CDATA[<!-- excerpt start -->
 <p>We completed the first Head cast production in our lab! We aim to improve the Source Reconstruction Signal-to-Noise ratio substantially by providing participants with more support during measurements and restricting their head movements to a minimum.
@@ -13,7 +13,37 @@ While there is still room for improvement, we are pleased with the progress we�
 In his work, he investigated the functional connectivity of the whole cortex and the subthalamic nucleus in Parkinson´s Patients with deep brain stimulation. 
 They assessed MEG and Local-field potential data simultaneously, which made it possible to assess functional connectivity without temporal delay.</p>
 
-<p>For more information on Bahne´s work, see <a href="https://www.mdsabstracts.org/abstract/oscillatory-network-mapping-of-deep-brain-stimulation-outcomes-in-parkinsons-disease/">here</a>.</p>]]></content><author><name>Jan Schalla</name></author><category term="Award" /><category term="Conference" /><category term="MEG" /><category term="PD" /><summary type="html"><![CDATA[Bahne won the Early Career Scientist Award of the Movement Disorder Society (MDS)!]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://florinneuro.github.io/images/news/MEG-LFP_big.png" /><media:content medium="image" url="https://florinneuro.github.io/images/news/MEG-LFP_big.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Welcome Julia Gelenar Marae</title><link href="https://florinneuro.github.io/2024/10/01/Gelenar-joined.html" rel="alternate" type="text/html" title="Welcome Julia Gelenar Marae" /><published>2024-10-01T00:00:00+00:00</published><updated>2024-10-01T00:00:00+00:00</updated><id>https://florinneuro.github.io/2024/10/01/Gelenar-joined</id><content type="html" xml:base="https://florinneuro.github.io/2024/10/01/Gelenar-joined.html"><![CDATA[<!-- excerpt start -->
+<p>For more information on Bahne´s work, see <a href="https://www.mdsabstracts.org/abstract/oscillatory-network-mapping-of-deep-brain-stimulation-outcomes-in-parkinsons-disease/">here</a>.</p>
+
+<figure class="figure">
+  <a href="/news" class="figure-image" aria-label="Fig. 1: Cortico-Subthalamic Coherence">
+    <img src="/images/news/Fig1_Bahners.png" style="
+        width: 400px;
+        max-height: unset;
+      " alt="Fig. 1: Cortico-Subthalamic Coherence" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
+  </a>
+  
+    <figcaption class="figure-caption">
+      Fig. 1: Cortico-Subthalamic Coherence
+
+    </figcaption>
+  
+</figure>
+
+<figure class="figure">
+  <a href="/news" class="figure-image" aria-label="Oscillatory Network Mapping Analysis">
+    <img src="/images/Fig2_Bahners.png" style="
+        width: 400px;
+        max-height: unset;
+      " alt="Oscillatory Network Mapping Analysis" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
+  </a>
+  
+    <figcaption class="figure-caption">
+      Oscillatory Network Mapping Analysis
+
+    </figcaption>
+  
+</figure>]]></content><author><name>Jan Schalla</name></author><category term="Award" /><category term="Conference" /><category term="MEG" /><category term="PD" /><summary type="html"><![CDATA[Bahne won the Early Career Scientist Award of the Movement Disorder Society (MDS)!]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://florinneuro.github.io/images/news/MEG-LFP_big.png" /><media:content medium="image" url="https://florinneuro.github.io/images/news/MEG-LFP_big.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Welcome Julia Gelenar Marae</title><link href="https://florinneuro.github.io/2024/10/01/Gelenar-joined.html" rel="alternate" type="text/html" title="Welcome Julia Gelenar Marae" /><published>2024-10-01T00:00:00+00:00</published><updated>2024-10-01T00:00:00+00:00</updated><id>https://florinneuro.github.io/2024/10/01/Gelenar-joined</id><content type="html" xml:base="https://florinneuro.github.io/2024/10/01/Gelenar-joined.html"><![CDATA[<!-- excerpt start -->
 <p>We would like to welcome Julia Gelenar Marae as a new postdoc to our lab! 
 <!-- excerpt end --></p>
 
