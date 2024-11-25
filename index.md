@@ -42,7 +42,7 @@ Spend less time worrying about managing a website and citations, and more time r
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/news-icon.png"
   link="news"
   title="Our News"
   flip=true
@@ -85,7 +85,7 @@ Spend less time worrying about managing a website and citations, and more time r
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/publications-icon.png"
   link="publications"
   title="Our Publications"
   flip=true
@@ -108,7 +108,7 @@ Spend less time worrying about managing a website and citations, and more time r
 
 {%
   include feature.html
-  image="images/group_photo.jpg"
+  image="images/team-icon.png"
   link="team"
   title="Our Team"
   text=text
