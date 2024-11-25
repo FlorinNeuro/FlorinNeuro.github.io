@@ -19,3 +19,19 @@ In his work, he investigated the functional connectivity of the whole cortex and
 They assessed MEG and Local-field potential data simultaneously, which made it possible to assess functional connectivity without temporal delay.
 
 For more information on Bahne´s work, see [here](https://www.mdsabstracts.org/abstract/oscillatory-network-mapping-of-deep-brain-stimulation-outcomes-in-parkinsons-disease/).
+
+{%
+  include figure.html
+  image="images/news/Fig1_Bahners.png"
+  caption="Fig. 1: Cortico-Subthalamic Coherence"
+  link="news"
+  width="400px"
+%}
+
+{%
+  include figure.html
+  image="images/Fig2_Bahners.png"
+  caption="Oscillatory Network Mapping Analysis"
+  link="news"
+  width="400px"
+%}
