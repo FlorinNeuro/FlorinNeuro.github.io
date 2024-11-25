@@ -1,7 +1,7 @@
 ---
 title: Welcome Oliver Kohl"
 author: Jan Schalla
-image: images/team/kohl.jpg
+image: images/team/Kohl.jpg
 tags: 
 - People
 ---
