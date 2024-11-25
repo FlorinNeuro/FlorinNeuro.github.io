@@ -1,10 +1,14 @@
 ---
 title: Welcome Oliver Kohl"
 author: Jan Schalla
-image: image/team/kohl.jpg
+image: images/team/kohl.jpg
 tags: 
 - People
 ---
+
+<!-- excerpt start -->
+We would like to welcome Dr. Oliver Kohl as a new postdoc to our lab! 
+<!-- excerpt end -->
 
 We would like to welcome Dr. Oliver Kohl as a new postdoc to our lab! 
 Oliver completed his PhD at the University of Oxford under the supervision of Kia Nobre and Mark Woolrich on resting state networks (RSN) alterations in Parkinson´s disease and their connection to cortical decline and dysfunction. 
