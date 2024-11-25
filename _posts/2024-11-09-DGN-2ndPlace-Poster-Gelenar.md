@@ -1,6 +1,6 @@
 ---
 title: Gelenar won 2nd place for her Poster at DGN
-image: images/news/logo-retune.png
+image: images/news/default.jpg
 author: Jan Schalla
 tags: 
   - Poster
