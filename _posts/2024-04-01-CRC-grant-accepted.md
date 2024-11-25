@@ -1,7 +1,7 @@
 ---
 title: 2nd funding period of the ReTune project starts (CRC 295)!
 author: Jan Schalla
-image: images/logo-retune.svg
+image: images/logo-retune.png
 tags:
   - grant
   - PD
@@ -10,6 +10,10 @@ tags:
   - Dystonia
   - 
 ---
+
+<!-- excerpt start -->
+We are happy to announce that the second funding period for the Collaborative Research Center CRC 295 "ReTune" has been officially approved! 
+<!-- excerpt end -->
 
 We are happy to announce that the second funding period for the Collaborative Research Center CRC 295 "ReTune" has been officially approved! ([Check out the ReTune website for more details.](https://sfb-retune.de/de/home-de/))
 
