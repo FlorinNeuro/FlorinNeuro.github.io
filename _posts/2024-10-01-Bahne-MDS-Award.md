@@ -24,7 +24,6 @@ For more information on Bahne´s work, see [here](https://www.mdsabstracts.org/a
   include figure.html
   image="images/news/Fig1_Bahners.png"
   caption="Fig. 1: Cortico-Subthalamic Coherence"
-  link="news"
   width="400px"
 %}
 
@@ -32,6 +31,5 @@ For more information on Bahne´s work, see [here](https://www.mdsabstracts.org/a
   include figure.html
   image="images/Fig2_Bahners.png"
   caption="Oscillatory Network Mapping Analysis"
-  link="news"
   width="400px"
 %}
