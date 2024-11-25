@@ -1,7 +1,8 @@
 ---
 title: 2nd funding period of the ReTune project starts (CRC 295)!
 author: Jan Schalla
-image: images/logo-retune.png
+image: images/news/logo-retune.png
+last_modified_at: ""
 tags:
   - grant
   - PD
@@ -12,10 +13,8 @@ tags:
 ---
 
 <!-- excerpt start -->
-We are happy to announce that the second funding period for the Collaborative Research Center CRC 295 "ReTune" has been officially approved! 
+We are happy to announce that the second funding period for the Collaborative Research Center CRC 295 ["ReTune"](https://sfb-retune.de/en/home/) has been officially approved!
 <!-- excerpt end -->
-
-We are happy to announce that the second funding period for the Collaborative Research Center CRC 295 "ReTune" has been officially approved! ([Check out the ReTune website for more details.](https://sfb-retune.de/de/home-de/))
 
 The primary aim of this project is to develop and refine neuromodulation therapies for movement disorders, such as dystonia and Parkinson's disease. By investigating the neurophysiological effects of these treatments, we hope to improve both our understanding of these conditions and the effectiveness of their treatments.
 
