@@ -1,7 +1,7 @@
 ---
-title: How can we optimise the effectiveness of DBS ?
+title: How can we optimise the effectiveness of DBS?
 ---
-# {% include icon.html icon="fa-solid fa-bolt" %}How can we optimise the effectiveness of DBS ?
+# {% include icon.html icon="fa-solid fa-bolt" %}How can we optimise the effectiveness of DBS?
 
 {% include tags.html tags="MEG, DBS, clinical-symptoms" link="research" %}
 
