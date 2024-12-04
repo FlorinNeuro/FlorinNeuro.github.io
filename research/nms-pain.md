@@ -11,3 +11,5 @@ Concerning dopaminergic treatment, we behaviorally evaluated the two pain system
 
 
 <!-- Citations -->
+
+E. Florin, K.C. Koschmieder, A. Schnitzler, S. Becker (2020): Recovery of impaired endogenous pain modulation by dopaminergic medication in Parkinson's disease, Movement Disorders, 35(12): 2338-2343. 
