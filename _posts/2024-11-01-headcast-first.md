@@ -1,7 +1,7 @@
 ---
 title: First Duesseldorfer In-House Head cast
 image: images/news/headcast.jpg
-author: Jan
+author: Jan Schalla
 tags: 
   - hpMEG
   - Head cast
