@@ -30,6 +30,6 @@ For more information on Bahne´s work, see [here](https://www.mdsabstracts.org/a
 {%
   include figure.html
   image="images/Fig2_Bahners.png"
-  caption="Oscillatory Network Mapping Analysis"
+  caption="Fig. 2: Oscillatory Network Mapping Analysis"
   width="400px"
 %}
