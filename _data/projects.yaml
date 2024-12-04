@@ -16,7 +16,7 @@
   group: pd-dbs
   # image: images/photo.jpg
   link: research/dbs-improvement
-  description: TODO
+  # description: TODO
   tags:
     - MEG
     - DBS
@@ -42,7 +42,7 @@
   group: pd-nms
   # image: images/photo.jpg
   link: research/nms-cognition
-  description: TODO
+  # description: TODO
   tags:
     - MEG
     - LFP
@@ -53,7 +53,7 @@
   group: pd-nms
   # image: images/photo.jpg
   link: research/nms-pain
-  description: TODO
+  # description: TODO
   tags:
     - MEG
     - task-based
@@ -62,7 +62,7 @@
   group: pd-nms
   # image: images/photo.jpg
   link: research/nms-perspectives
-  description: TODO
+ # description: TODO
   tags:
     - MEG
     - task-based
@@ -74,7 +74,7 @@
   group: pd-bn
   # image: images/photo.jpg
   link: research/bn-rsn
-  description: TODO
+ # description: TODO
   tags:
     - MEG
 
@@ -82,7 +82,7 @@
   group: pd-bn
   # image: images/photo.jpg
   link: research/bn-task
-  description: TODO
+ # description: TODO
   tags:
     - MEG
     - task-based
@@ -91,7 +91,7 @@
   group: pd-bn
   # image: images/photo.jpg
   link: research/bn-causality
-  description: TODO
+ # description: TODO
   tags:
     - MEG
     - LFP
