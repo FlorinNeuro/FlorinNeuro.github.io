@@ -73,6 +73,32 @@
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1101/2024.10.04.24314308
+  title: Evoked response signatures explain deep brain stimulation outcomes
+  authors:
+  - Bahne H. Bahners
+  - Lukas L. Goede
+  - Garance M. Meyer
+  - Luise Poser
+  - Lauren A. Hart
+  - Julianna Pijar
+  - Nanditha Rajamani
+  - Barbara Hollunder
+  - Savir Madan
+  - "Sim\xF3n Oxenford"
+  - Gunnar Waterstraat
+  - Gabriel Curio
+  - Alfons Schnitzler
+  - Esther Florin
+  - "Andrea A. K\xFChn"
+  - Michael D. Fox
+  - Andreas Horn
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-10-06'
+  link: https://doi.org/g8tpkg
+  orcid: 0000-0001-8276-2508
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1002/mds.29626
   title: Local Field Potentials Predict Motor Performance in Deep Brain Stimulation
     for Parkinson's Disease
@@ -90,21 +116,6 @@
   publisher: Movement Disorders
   date: '2023-10-12'
   link: https://doi.org/gt8c2k
-  orcid: 0000-0001-8276-2508
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.10.25.563956
-  title: Deep brain stimulation device-specific artefacts in MEG recordings
-  authors:
-  - Bahne H. Bahners
-  - Roxanne Lofredi
-  - Tilmann Sander
-  - Alfons Schnitzler
-  - "Andrea A. K\xFChn"
-  - Esther Florin
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-30'
-  link: https://doi.org/gt8c2m
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
@@ -138,6 +149,114 @@
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.3390/s23115238
+  title: 'A First Methodological Development and Validation of ReTap: An Open-Source
+    UPDRS Finger Tapping Assessment Tool Based on Accelerometer-Data'
+  authors:
+  - Jeroen G. V. Habets
+  - Rachel K. Spooner
+  - Varvara Mathiopoulou
+  - Lucia K. Feldmann
+  - Johannes L. Busch
+  - Jan Roediger
+  - Bahne H. Bahners
+  - Alfons Schnitzler
+  - Esther Florin
+  - "Andrea A. K\xFChn"
+  publisher: Sensors
+  date: '2023-05-31'
+  link: https://doi.org/g8tpkh
+  orcid: 0000-0001-8276-2508
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fnsys.2023.1219334
+  title: "Alterations of PAC-based resting state networks in Parkinson\u2019s disease\
+    \ are partially alleviated by levodopa medication"
+  authors:
+  - Sean Mertiens
+  - Matthias Sure
+  - Alfons Schnitzler
+  - Esther Florin
+  publisher: Frontiers in Systems Neuroscience
+  date: '2023-08-01'
+  link: https://doi.org/g8tpkj
+  orcid: 0000-0001-8276-2508
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.nicl.2023.103317
+  title: "Alterations of resting-state networks of Parkinson\u2018s disease patients\
+    \ after subthalamic DBS surgery"
+  authors:
+  - Matthias Sure
+  - Sean Mertiens
+  - Jan Vesper
+  - Alfons Schnitzler
+  - Esther Florin
+  publisher: 'NeuroImage: Clinical'
+  date: '2023-01-01'
+  link: https://doi.org/gr2dph
+  orcid: 0000-0001-8276-2508
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1162/imag_a_00029
+  title: "Combining magnetoencephalography with telemetric streaming of intracranial\
+    \ recordings and deep brain stimulation\u2014A feasibility study"
+  authors:
+  - Mansoureh Fahimi Hnazaee
+  - Matthias Sure
+  - "George C. O\u2019Neill"
+  - Gaetano Leogrande
+  - Alfons Schnitzler
+  - Esther Florin
+  - Vladimir Litvak
+  publisher: Imaging Neuroscience
+  date: '2023-11-01'
+  link: https://doi.org/g8tpkk
+  orcid: 0000-0001-8276-2508
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.11.08.23298114
+  title: "Resting State Network alterations during Deep Brain Stimulation in Parkinson\u2019\
+    s Disease"
+  authors:
+  - Ahmet Levent Kandemir
+  - Alfons Schnitzler
+  - Esther Florin
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-11-09'
+  link: https://doi.org/g8tpkm
+  orcid: 0000-0001-8276-2508
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/mds.29378
+  title: "Slowing of Frontal <scp>\u03B2</scp> Oscillations in Atypical Parkinsonism"
+  authors:
+  - "Marius Kr\xF6sche"
+  - Silja Kannenberg
+  - Markus Butz
+  - Christian J. Hartmann
+  - Esther Florin
+  - Alfons Schnitzler
+  - Jan Hirschmann
+  publisher: Movement Disorders
+  date: '2023-05-01'
+  link: https://doi.org/g8tpkn
+  orcid: 0000-0001-8276-2508
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.10.19.563130
+  title: Spontaneous network transitions predict somatosensory perception
+  authors:
+  - Abhinav Sharma
+  - Joachim Lange
+  - Diego Vidaurre
+  - Esther Florin
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-10-23'
+  link: https://doi.org/g8tpkp
+  orcid: 0000-0001-8276-2508
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1093/braincomms/fcac331
   title: "Whole-brain dynamical modelling for classification of Parkinson\u2019s disease"
   authors:
@@ -154,19 +273,125 @@
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.06.08.495360
-  title: "Whole-brain dynamical modeling for classification of Parkinson\u2019s disease"
+- id: doi:10.1016/j.neuroimage.2022.119619
+  title: Cortical network formation based on subthalamic beta bursts in Parkinson's
+    disease
   authors:
-  - Kyesam Jung
+  - Matthias Sure
+  - Jan Vesper
+  - Alfons Schnitzler
   - Esther Florin
-  - Kaustubh R. Patil
-  - Julian Caspers
-  - Christian Rubbert
-  - Simon B. Eickhoff
-  - Oleksandr V. Popovych
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-06-12'
-  link: https://doi.org/gt8c2q
+  publisher: NeuroImage
+  date: '2022-11-01'
+  link: https://doi.org/g8tpkq
+  orcid: 0000-0001-8276-2508
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1523/jneurosci.0630-21.2022
+  title: Cross-Frequency Brain Network Dynamics Support Pitch Change Detection
+  authors:
+  - Soheila Samiee
+  - Dominique Vuvan
+  - Esther Florin
+  - Philippe Albouy
+  - Isabelle Peretz
+  - Sylvain Baillet
+  publisher: The Journal of Neuroscience
+  date: '2022-03-29'
+  link: https://doi.org/g8tpkr
+  orcid: 0000-0001-8276-2508
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.expneurol.2022.114031
+  title: Electrophysiological characterization of the hyperdirect pathway and its
+    functional relevance for subthalamic deep brain stimulation
+  authors:
+  - Bahne Hendrik Bahners
+  - Gunnar Waterstraat
+  - Silja Kannenberg
+  - Gabriel Curio
+  - Alfons Schnitzler
+  - Vadim Nikulin
+  - Esther Florin
+  publisher: Experimental Neurology
+  date: '2022-06-01'
+  link: https://doi.org/g8tpks
+  orcid: 0000-0001-8276-2508
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.brs.2022.05.008
+  title: Neuronal oscillations predict deep brain stimulation outcome in Parkinson's
+    disease
+  authors:
+  - Jan Hirschmann
+  - Alexandra Steina
+  - Jan Vesper
+  - Esther Florin
+  - Alfons Schnitzler
+  publisher: Brain Stimulation
+  date: '2022-05-01'
+  link: https://doi.org/gtgxcq
+  orcid: 0000-0001-8276-2508
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3233/jpd-212960
+  title: "No Higher Risk-Seeking Tendencies or Altered Self-Estimation in a Social\
+    \ Decision-Making Task in Patients with Parkinson\u2019s Disease"
+  authors:
+  - Alexandra C. Zapf
+  - Ann-Kristin Folkerts
+  - Larissa Kahler
+  - Alfons Schnitzler
+  - Paul Reker
+  - Michael T. Barbe
+  - Esther Florin
+  - Elke Kalbe
+  publisher: Journal of Parkinson's Disease
+  date: '2022-04-05'
+  link: https://doi.org/g8tpkt
+  orcid: 0000-0001-8276-2508
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s12021-022-09581-8
+  title: 'Separating Neural Oscillations from Aperiodic 1/f Activity: Challenges and
+    Recommendations'
+  authors:
+  - Moritz Gerster
+  - Gunnar Waterstraat
+  - Vladimir Litvak
+  - Klaus Lehnertz
+  - Alfons Schnitzler
+  - Esther Florin
+  - Gabriel Curio
+  - Vadim Nikulin
+  publisher: Neuroinformatics
+  date: '2022-04-07'
+  link: https://doi.org/gpvn7r
+  orcid: 0000-0001-8276-2508
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41531-022-00301-2
+  title: 'Toward therapeutic electrophysiology: beta-band suppression as a biomarker
+    in chronic local field potential recordings'
+  authors:
+  - Lucia K. Feldmann
+  - Roxanne Lofredi
+  - Wolf-Julian Neumann
+  - Bassam Al-Fatly
+  - Jan Roediger
+  - Bahne H. Bahners
+  - Petyo Nikolov
+  - Timothy Denison
+  - Assel Saryyeva
+  - Joachim K. Krauss
+  - Katharina Faust
+  - Esther Florin
+  - Alfons Schnitzler
+  - Gerd-Helge Schneider
+  - "Andrea A. K\xFChn"
+  publisher: npj Parkinson's Disease
+  date: '2022-04-19'
+  link: https://doi.org/gsbwrf
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
@@ -235,6 +460,20 @@
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.3389/fnins.2021.724334
+  title: Dopaminergic Modulation of Spectral and Spatial Characteristics of Parkinsonian
+    Subthalamic Nucleus Beta Bursts
+  authors:
+  - Matthias Sure
+  - Jan Vesper
+  - Alfons Schnitzler
+  - Esther Florin
+  publisher: Frontiers in Neuroscience
+  date: '2021-11-11'
+  link: https://doi.org/g8tpkv
+  orcid: 0000-0001-8276-2508
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1002/mds.28241
   title: Recovery of Impaired Endogenous Pain Modulation by Dopaminergic Medication
     in Parkinson's Disease
@@ -246,21 +485,6 @@
   publisher: Movement Disorders
   date: '2020-09-18'
   link: https://doi.org/gt8c2t
-  orcid: 0000-0001-8276-2508
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2020.10.07.328450
-  title: Neurophysiological network dynamics of pitch change detection
-  authors:
-  - Soheila Samiee
-  - Dominique Vuvan
-  - Esther Florin
-  - Philippe Albouy
-  - Isabelle Peretz
-  - Sylvain Baillet
-  publisher: Cold Spring Harbor Laboratory
-  date: '2020-10-08'
-  link: https://doi.org/gt8c2v
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
@@ -418,22 +642,6 @@
   publisher: PLOS ONE
   date: '2017-11-17'
   link: https://doi.org/gckkt4
-  orcid: 0000-0001-8276-2508
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/085605
-  title: 'Phase-coherence classification: a new wavelet-based method to separate local
-    field potentials into local (in)coherent and volume-conducted components'
-  authors:
-  - M. von Papen
-  - H. Dafsari
-  - E. Florin
-  - F. Gerick
-  - L. Timmermann
-  - J. Saur
-  publisher: Cold Spring Harbor Laboratory
-  date: '2016-11-04'
-  link: https://doi.org/gkts3b
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
