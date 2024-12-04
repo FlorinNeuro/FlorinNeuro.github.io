@@ -1,6 +1,6 @@
 ---
 title: Gelenar won 2nd place for her Poster at DGN
-image: images/news/Fig1_Gelenar.jpg
+image: images/news/Auditory_Evoked_Potential_White.png
 author: Jan Schalla
 tags: 
   - Poster
@@ -13,4 +13,10 @@ last_modified_at: ""
 Congrats to Gelenar! She was just awarded 2nd place for her poster on auditory cortex engagement during silent reading at the Conference from the "Deutsche Gesellschaft für Neurologie" (DGN) in Berlin.
 <!-- excerpt end -->
 
+{%
+  include figure.html
+  image="images/Fig1_Gelenar.png"
+  caption="Fig. 2: Auditory Evoked Potentials from silent reading"
+  width="400px"
+%}
 
