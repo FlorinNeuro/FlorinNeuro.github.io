@@ -8,7 +8,7 @@ links:
   email: Jan.Schalla@med.uni-duesseldorf.de
 ---
 <!-- Intro -->
-I am a PhD candidate at the Institute of Clinical Neuroscience and Medical Psychology, Universitätsklinikum Düsseldorf, Germany. My research, supervised by Prof. Esther Florin and funded by the Collaborative Research Center 295 (SFB 295) - ReTune, focuses on oscillatory bursting activity within the basal ganglia-thalamo-cortical network in Parkinson's disease.
+I am a PhD student at the Institute of Clinical Neuroscience and Medical Psychology, Universitätsklinikum Düsseldorf, Germany. My research, supervised by Prof. Esther Florin and funded by the Collaborative Research Center 295 (SFB 295) - ReTune, focuses on oscillatory bursting activity within the basal ganglia-thalamo-cortical network in Parkinson's disease.
 My work explores the cortical dynamics of beta bursts, investigating their modulation through medication and deep brain stimulation (DBS) as well as their clinical and behavioral relevance. To achieve this, I leverage high-precision magnetoencephalography (hpMEG) to enhance the signal-to-noise ratio of MEG data and mitigate movement-related uncertainties in source reconstruction.
 The primary goal of my research is to provide a more detailed characterization of brain activity, particularly beta bursts, and contribute to the development of advanced adaptive DBS technologies.
 
