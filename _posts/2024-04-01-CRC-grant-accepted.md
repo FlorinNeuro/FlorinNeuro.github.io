@@ -4,7 +4,7 @@ author: Jan Schalla
 image: images/news/logo-retune.png
 last_modified_at: ""
 tags:
-  - grant
+  - Grant
   - PD
   - MEG
   - LFP
