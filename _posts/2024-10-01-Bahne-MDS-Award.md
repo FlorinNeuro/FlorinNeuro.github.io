@@ -4,7 +4,7 @@ author: Jan Schalla
 image: images/news/MEG-LFP_big.png
 last_modified_at: ""
 tags:
-  - awards
+  - Awards
   - Conference
   - MEG
   - PD
