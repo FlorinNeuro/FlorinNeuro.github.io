@@ -4,9 +4,9 @@ author: Jan Schalla
 image: images/news/Fig1_FH_PAIN.png
 last_modified_at: ""
 tags:
-  - pain
-  - behavioral
-  - computational modeling
+  - Pain
+  - Behavioral
+  - Computational modeling
 ---
 
 <!-- excerpt start -->
