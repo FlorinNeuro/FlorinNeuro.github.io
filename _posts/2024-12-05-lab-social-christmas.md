@@ -3,7 +3,7 @@ title: Merry Christmas!
 image: images/news/christmas_kegeln_2024.jpg
 author: Jan Schalla
 tags: 
-  - lab socials
+  - Lab socials
 last_modified_at: ""
 ---
 
