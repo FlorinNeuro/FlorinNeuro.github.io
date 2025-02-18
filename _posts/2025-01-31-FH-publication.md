@@ -4,8 +4,9 @@ author: Jan Schalla
 image: images/news/Fig1_FH_PAIN.png
 last_modified_at: ""
 tags:
-  - Pain
-  - Behavioral 
+  - pain
+  - behavioral
+  - computational modeling
 ---
 
 <!-- excerpt start -->
@@ -17,5 +18,5 @@ They investigated how pain discrimination can be enhanced for adaptive purposes 
   include figure.html
   image="images/news/Fig_FH_mainResults.png"
   caption="Fig. 1: Posterior distributions for learning rates from models with reinforcement learning and correlations of learning rate estimations with learned increase in correct choices."
-  width="400px"
+  width="600px"
 %}
