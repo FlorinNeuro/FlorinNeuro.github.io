@@ -6,7 +6,7 @@ tags:
   - Poster
   - Conference
   - MEG
-  - awards
+  - Awards
 last_modified_at: ""
 ---
 
