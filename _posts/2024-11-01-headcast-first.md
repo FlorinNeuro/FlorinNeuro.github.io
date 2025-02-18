@@ -4,7 +4,7 @@ image: images/news/headcast.jpg
 author: Jan Schalla
 tags: 
   - hpMEG
-  - Head cast
+  - head cast
   - CRC 295
 last_modified_at: ""
 ---
