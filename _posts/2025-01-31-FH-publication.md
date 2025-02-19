@@ -12,7 +12,7 @@ tags:
 <!-- excerpt start -->
 Congrats! Fabrice Hubschmid and colleagues just published his first paper during his PhD on pain modulation in the Journal ["PAIN"](https://journals.lww.com/pain/fulltext/9900/mechanisms_of_increased_pain_discrimination_by.801.aspx)
 <!-- excerpt end -->
-They investigated how pain discrimination can be enhanced for adaptive purposes in healthy human decision-makers with a combination of drift-diffusion and reinforcement learning models. To find out more, check out the paper!
+They investigated how pain discrimination can be enhanced for adaptive purposes in healthy human decision-makers with a combination of drift-diffusion and reinforcement learning models. To find out more, check out the ["paper"](https://journals.lww.com/pain/fulltext/9900/mechanisms_of_increased_pain_discrimination_by.801.aspx)!
 
 {%
   include figure.html
