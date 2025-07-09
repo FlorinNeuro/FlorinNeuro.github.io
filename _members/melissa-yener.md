@@ -1,8 +1,9 @@
 ---
 name: Melissa Yener
-image: images/team/default.png
+# image: images/team/default.png
+image: images/team/alumni.png
 role: undergrad-master
-alumni: false
+alumni: true
 links:
   email: Melissa.Yener@hhu.de
 ---

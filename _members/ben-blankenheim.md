@@ -1,8 +1,9 @@
 ---
 name: Ben Blankenheim
-image: images/team/Blankenheim.jpeg
+# image: images/team/Blankenheim.jpeg
+image: images/team/alumni.png
 role: undergrad-bachelor
-alumni: false
+alumni: true
 links:
   email: ben.blankenheim@hhu.de
 ---

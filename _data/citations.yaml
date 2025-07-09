@@ -346,8 +346,8 @@
   - Michael T. Barbe
   - Esther Florin
   - Elke Kalbe
-  publisher: Journal of Parkinson's Disease
-  date: '2022-04-05'
+  publisher: "Journal of Parkinson\u2019s Disease"
+  date: '2022-02-14'
   link: https://doi.org/g8tpkt
   orcid: 0000-0001-8276-2508
   plugin: orcid.py

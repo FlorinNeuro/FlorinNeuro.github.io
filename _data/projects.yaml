@@ -3,7 +3,7 @@
 ##########
 - title: How Does DBS Work?
   group: pd-dbs
-  # image: images/photo.jpg
+  image: images/dbs.png
   link: research/dbs
   description: While deep brain stimulation (**DBS**) is a successful symptomatic treatment of Parkinson’s disease, its mechanisms are still not understood.
   tags:
@@ -11,21 +11,21 @@
     - DBS
     - LFP
 
-- title: How can we optimise the effectiveness of DBS?
+- title: Can we optimise the effectiveness of DBS?
   # subtitle: Deep Brain Stimulation in Parkinson's Disease
   group: pd-dbs
-  # image: images/photo.jpg
+  image: images/dbs-improvement.png
   link: research/dbs-improvement
-  # description: TODO
+  description: While deep brain stimulation (**DBS**) has been used clinically for many years, its efficacy is not systematic, wanes with time, and sometimes causes side effects.
   tags:
     - MEG
     - DBS
     - clinical-symptoms
 
 - title: Perspectives
-  # subtitle: Deep Brain Stimulation in Parkinson's Disease
+  subtitle: Deep Brain Stimulation in Parkinson's Disease
   group: pd-dbs
-  # image: images/photo.jpg
+  image: images/perspectives.jpg
   link: research/dbs-perspectives
   description: Exciting, fresh, ongoing work !
   tags:
@@ -40,9 +40,9 @@
 ##########
 - title: Cognitive effects in PD
   group: pd-nms
-  # image: images/photo.jpg
+  image: images/cognitive-effect.jpeg
   link: research/nms-cognition
-  # description: TODO
+  description: While the primary focus in Parkinson’s disease research is commonly on motor symptoms and their treatment, both DBS and dopaminergic medication are associated with non-motor side effects.
   tags:
     - MEG
     - LFP
@@ -51,18 +51,19 @@
 
 - title: Pain in PD
   group: pd-nms
-  # image: images/photo.jpg
+  image: images/pain-effect.jpeg
   link: research/nms-pain
-  # description: TODO
+  description: The mechanisms of pain perception are largely misunderstood to this day. Previous and current research hint that Parkinson's disease might affect such perception. We are looking into it.
   tags:
     - MEG
     - task-based
 
 - title: Perspectives
+  subtitle: Non-Motor Symptoms of Parkinson’s Disease
   group: pd-nms
-  # image: images/photo.jpg
+  image: images/perspectives.jpg
   link: research/nms-perspectives
- # description: TODO
+  description: Exciting, fresh, ongoing work !
   tags:
     - MEG
     - task-based
@@ -70,37 +71,38 @@
 ##########
 # pd-bn #
 ##########
-- title: Electrophysiological Resting State Networks
+- title: Electrophysiological brain resting state networks
   group: pd-bn
-  # image: images/photo.jpg
+  image: images/rsn.jpeg
   link: research/bn-rsn
- # description: TODO
+  description: Even when we are inactive, our brain is still running. Its resting-state patterns of activity are very consistent across people and frequencies, yet they are still widely misunderstood.
   tags:
     - MEG
 
 - title: Relation of spontaneous network activity to task performance
   group: pd-bn
-  # image: images/photo.jpg
+  image: images/task-perf.jpeg
   link: research/bn-task
- # description: TODO
+  description: A lot of neurophysiology research investigates the relation between brain networks and task performance. A lot less research relates it to dynamic changes between networks.
   tags:
     - MEG
     - task-based
 
-- title: Causal interference
+- title: Causal inference
   group: pd-bn
-  # image: images/photo.jpg
+  image: images/causal.jpeg
   link: research/bn-causality
- # description: TODO
+  description: Causal influences within the brain reveal its fast dynamics.
   tags:
     - MEG
     - LFP
 
 - title: Perspectives
+  subtitle: Brain Networks in Parkinson’s Disease
   group: pd-bn
-  # image: images/photo.jpg
+  image: images/perspectives.jpg
   link: research/bn-perspectives
-  description: TODO
+  description: Exciting, fresh, ongoing work !
   tags:
     - MEG
     - LFP
@@ -108,47 +110,47 @@
 ###########
 # methods #
 ########### hpMEG, MEG, LFP, DBS, task-based, clinical-symptoms
-- title: hpMEG
-  group: methods
-  # image: images/photo.jpg
-  link: research/bn-hpmeg
-  description: TODO
-  tags:
-    - hpMEG
-    - method
-
 - title: MEG
   group: methods
-  # image: images/photo.jpg
-  link: research/method-meg
-  description: TODO
+  image: images/meg.jpeg
+  # link: research/method-meg
+  description: Magnetoencephalography provides a fine look at cortical activity via its magnetic fields.
   tags:
     - MEG
     - method
 
+- title: hpMEG
+  group: methods
+  image: images/hpmeg.jpeg
+  # link: research/bn-hpmeg
+  description: We can greatly improve MEG's spatial resolution with precise custom-made head-casts.
+  tags:
+    - hpMEG
+    - method
+
 - title: LFP
   group: methods
-  # image: images/photo.jpg
-  link: research/method-lfp
-  description: TODO
+  image: images/lfp.jpeg
+  # link: research/method-lfp
+  description: Brain-implanted electrodes can measure electric fields of local neuron populations.
   tags:
     - LFP
     - method
 
 - title: task-based
   group: methods
-  # image: images/photo.jpg
-  link: research/method-task
-  description: TODO
+  image: images/task.jpeg
+  # link: research/method-task
+  description: Having participants perform a strict task repetitively allows us to investigate the brain dynamics ruling it.
   tags:
     - task-based
     - method
 
 - title: clinical-symptoms
   group: methods
-  # image: images/photo.jpg
-  link: research/method-symptoms
-  description: TODO
+  image: images/symptoms.jpeg
+  # link: research/method-symptoms
+  description: Relating brain dynamics to clinical symptoms of participants lets us better understand their pathology.
   tags:
     - clinical-symptoms
     - method
