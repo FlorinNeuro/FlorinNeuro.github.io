@@ -1,5 +1,28 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2025.10.31.685818
+  title: Reward-induced endogenous pain inhibition scales with action-outcome certainty
+    in humans
+  authors:
+  - Fabrice Hubschmid
+  - Simon Desch
+  - Esther Florin
+  - Susanne Becker
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-11-01'
+  link: https://doi.org/g98xjw
+  orcid: 0000-0001-8276-2508
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/cercor/bhaf309
+  title: pendingpublications
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://doi.org/g97cqd
+  orcid: 0000-0001-8276-2508
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1002/hbm.26751
   title: "Impact of data processing varieties on <scp>DCM</scp> estimates of effective\
     \ connectivity from task\u2010<scp>fMRI</scp>"
@@ -497,6 +520,20 @@
   publisher: NeuroImage
   date: '2020-10-01'
   link: https://doi.org/gt8c2w
+  orcid: 0000-0001-8276-2508
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.31234/osf.io/tv49d
+  title: Pre-target neural oscillations predict variability in the detection of small
+    pitch changes
+  authors:
+  - Esther Florin
+  - Dominique T Vuvan
+  - Isabelle Peretz
+  - Sylvain Baillet
+  publisher: Center for Open Science
+  date: '2020-02-12'
+  link: https://doi.org/hbbm94
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
