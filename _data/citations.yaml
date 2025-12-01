@@ -1,5 +1,48 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pmid:41168073
+  title: 'Beyond beta rhythms: subthalamic aperiodic broadband power scales with Parkinson''s
+    disease severity-a cross-sectional multicentre study.'
+  authors:
+  - Moritz Gerster
+  - Gunnar Waterstraat
+  - Thomas S Binns
+  - Natasha Darcy
+  - Christoph Wiest
+  - "Richard M K\xF6hler"
+  - Jojo Vanhoecke
+  - Timothy O West
+  - Matthias Sure
+  - Dmitrii Todorov
+  - Lukasz Radzinski
+  - Jeroen Habets
+  - Johannes L Busch
+  - Lucia K Feldmann
+  - Patricia Krause
+  - Katharina Faust
+  - Gerd-Helge Schneider
+  - Keyoumars Ashkan
+  - Erlick Pereira
+  - Harith Akram
+  - Ludvic Zrinzo
+  - Benjamin Blankertz
+  - Arno Villringer
+  - Huiling Tan
+  - Jan Hirschmann
+  - "Andrea A K\xFChn"
+  - Esther Florin
+  - Alfons Schnitzler
+  - Ashwini Oswal
+  - Vladimir Litvak
+  - Wolf-Julian Neumann
+  - Gabriel Curio
+  - Vadim Nikulin
+  publisher: EBioMedicine
+  date: '2025-11-04'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/41168073
+  orcid: 0000-0001-8276-2508
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2025.10.31.685818
   title: Reward-induced endogenous pain inhibition scales with action-outcome certainty
     in humans
@@ -20,6 +63,53 @@
   publisher: ''
   date: ''
   link: https://doi.org/g97cqd
+  orcid: 0000-0001-8276-2508
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:41153017
+  title: Subthalamic beta peak power ratio as an electrophysiological marker for deep
+    brain stimulation contact selection in Parkinson's disease.
+  authors:
+  - Victoria D M Molinari
+  - Matthias Sure
+  - Rachel K Spooner
+  - Bahne H Bahners
+  - Alfons Schnitzler
+  - Esther Florin
+  - Christian J Hartmann
+  publisher: Neurological research and practice
+  date: '2025-10-28'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/41153017
+  orcid: 0000-0001-8276-2508
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:40582227
+  title: Longitudinal changes of resting-state networks in Parkinson's disease.
+  authors:
+  - Matthias Sure
+  - Rasha Hyder
+  - Levent Kandemir
+  - Jan Vesper
+  - Alfons Schnitzler
+  - Esther Florin
+  publisher: NeuroImage. Clinical
+  date: '2025-06-25'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40582227
+  orcid: 0000-0001-8276-2508
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:40487362
+  title: Predicting response speed and age from task-evoked effective connectivity.
+  authors:
+  - Shufei Zhang
+  - Kyesam Jung
+  - Robert Langner
+  - Esther Florin
+  - Simon B Eickhoff
+  - Oleksandr V Popovych
+  publisher: Network neuroscience (Cambridge, Mass.)
+  date: '2025-04-30'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/40487362
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
@@ -264,19 +354,6 @@
   publisher: Movement Disorders
   date: '2023-05-01'
   link: https://doi.org/g8tpkn
-  orcid: 0000-0001-8276-2508
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.10.19.563130
-  title: Spontaneous network transitions predict somatosensory perception
-  authors:
-  - Abhinav Sharma
-  - Joachim Lange
-  - Diego Vidaurre
-  - Esther Florin
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-23'
-  link: https://doi.org/g8tpkp
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
