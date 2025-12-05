@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-search" %}Research
 
-Our research aim is to understand cognition and behavior in healthy subjects and neurological patients. Therefore we identify mechanisms of communication and network dynamics within the human brain. For this aim our lab uses M/EEG to non-invasively investigate brain function. We combine these recordings in patients with invasive LFP recordings.
+Our research aim is to understand cognition and behavior in healthy participants and how they are changed in neurological diseases. Therefore, we identify mechanisms of communication and network dynamics within the human brain. For this aim, our lab uses magnetoencephalography (MEG) and electroencephalography (EEG) to investigate brain function non-invasively. We combine these recordings with invasive LFP recordings in patients.
 
 {% include tags.html tags="hpMEG, MEG, LFP, DBS, task-based, clinical-symptoms, method" %}
 
