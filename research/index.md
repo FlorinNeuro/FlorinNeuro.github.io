@@ -27,7 +27,7 @@ Our research aim is to understand cognition and behavior in healthy subjects and
 
 {% include section.html %}
 
-## Brain Networks in Parkinson's Disease
+## Brain Networks
 
 {% include list.html component="card" data="projects" filters="group: pd-bn" style="large" %}
 
