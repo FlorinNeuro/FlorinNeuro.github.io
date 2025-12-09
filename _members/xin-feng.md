@@ -1,6 +1,6 @@
 ---
 name: Xin Feng
-image: images/team/default.png
+image: images/team/Feng.jpg
 role: md
 alumni: false
 ---
