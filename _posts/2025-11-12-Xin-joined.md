@@ -1,7 +1,7 @@
 ---
 title: Welcome Xin Feng
 author: Thomas Pirenne
-image: images/team/default.png
+image: images/team/Feng.jpg
 tags: 
 - People
 last_modified_at: ""
