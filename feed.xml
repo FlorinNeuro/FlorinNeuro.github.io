@@ -1,4 +1,39 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://florinneuro.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://florinneuro.github.io/" rel="alternate" type="text/html" /><updated>2025-12-15T15:52:42+00:00</updated><id>https://florinneuro.github.io/feed.xml</id><title type="html">Florin Lab</title><subtitle>Website of Esther Florin&apos;s Neuroscience lab at the University Clinic of Düsseldorf (UKD).</subtitle><entry><title type="html">Bahne published in Brain</title><link href="https://florinneuro.github.io/2025/11/24/BB-publication.html" rel="alternate" type="text/html" title="Bahne published in Brain" /><published>2025-11-24T00:00:00+00:00</published><updated>2025-11-24T00:00:00+00:00</updated><id>https://florinneuro.github.io/2025/11/24/BB-publication</id><content type="html" xml:base="https://florinneuro.github.io/2025/11/24/BB-publication.html"><![CDATA[<!-- excerpt start -->
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://florinneuro.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://florinneuro.github.io/" rel="alternate" type="text/html" /><updated>2025-12-18T13:08:41+00:00</updated><id>https://florinneuro.github.io/feed.xml</id><title type="html">Florin Lab</title><subtitle>Website of Esther Florin&apos;s Neuroscience lab at the University Clinic of Düsseldorf (UKD).</subtitle><entry><title type="html">Thomas published in IJNS</title><link href="https://florinneuro.github.io/2025/12/17/TP-publication.html" rel="alternate" type="text/html" title="Thomas published in IJNS" /><published>2025-12-17T00:00:00+00:00</published><updated>2025-12-17T00:00:00+00:00</updated><id>https://florinneuro.github.io/2025/12/17/TP-publication</id><content type="html" xml:base="https://florinneuro.github.io/2025/12/17/TP-publication.html"><![CDATA[<!-- excerpt start -->
+<p>A manuscript by Thomas and colleagues investigating auditory processing in Parkinson’s disease was just published by the <em>International Journal of Neural Systems</em>.
+<!-- excerpt end -->
+They report a pathological effect of Parkinson’s disease on auditory steady state responses at varying frequencies. Their results further indicate that subthalamic nucleus deep brain stimulation (STN-DBS) contributes to counteracting this pathological effect.</p>
+
+<p>Read more about it from the full <a href="https://doi.org/10.1142/S0129065725500820">paper</a>.</p>
+
+<figure class="figure">
+  <a class="figure-image" aria-label="Experiment overview - *canonical correlation analysis (CCA) is used to extract auditory steady state responses (ASSR) from electroencephalography (EEG) recording.*">
+    <img src="/images/news/mASSR-f1.png" style="
+        width: 600px;
+        max-height: unset;
+      " alt="Experiment overview - *canonical correlation analysis (CCA) is used to extract auditory steady state responses (ASSR) from electroencephalography (EEG) recording.*" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
+  </a>
+  
+    <figcaption class="figure-caption">
+      Experiment overview - <em>canonical correlation analysis (CCA) is used to extract auditory steady state responses (ASSR) from electroencephalography (EEG) recording.</em>
+
+    </figcaption>
+  
+</figure>
+
+<figure class="figure">
+  <a class="figure-image" aria-label="Results - *Parkinson's disease increases ASSRs, DBS contributes to reducing ASSRs towards a normal range.*">
+    <img src="/images/news/mASSR-res.png" style="
+        width: 600px;
+        max-height: unset;
+      " alt="Results - *Parkinson's disease increases ASSRs, DBS contributes to reducing ASSRs towards a normal range.*" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
+  </a>
+  
+    <figcaption class="figure-caption">
+      Results - <em>Parkinson’s disease increases ASSRs, DBS contributes to reducing ASSRs towards a normal range.</em>
+
+    </figcaption>
+  
+</figure>]]></content><author><name>Thomas Pirenne</name></author><category term="Publication" /><category term="PD" /><category term="EEG" /><category term="DBS" /><summary type="html"><![CDATA[A manuscript by Thomas and colleagues investigating auditory processing in Parkinson’s disease was just published by the International Journal of Neural Systems. They report a pathological effect of Parkinson’s disease on auditory steady state responses at varying frequencies. Their results further indicate that subthalamic nucleus deep brain stimulation (STN-DBS) contributes to counteracting this pathological effect.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://florinneuro.github.io/images/news/mASSR-small.png" /><media:content medium="image" url="https://florinneuro.github.io/images/news/mASSR-small.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Bahne published in Brain</title><link href="https://florinneuro.github.io/2025/11/24/BB-publication.html" rel="alternate" type="text/html" title="Bahne published in Brain" /><published>2025-11-24T00:00:00+00:00</published><updated>2025-11-24T00:00:00+00:00</updated><id>https://florinneuro.github.io/2025/11/24/BB-publication</id><content type="html" xml:base="https://florinneuro.github.io/2025/11/24/BB-publication.html"><![CDATA[<!-- excerpt start -->
 <p>The latest work by Bahne H. Bahners and colleagues has just been accepted for publication by Brain.
 <!-- excerpt end -->
 They report that the deep brain stimulation response network in Parkinson’s disease operates in the high beta band.</p>
@@ -138,9 +173,4 @@ Warm greetings from Düsseldorf!</p>]]></content><author><name>Jan Schalla</name
 
     </figcaption>
   
-</figure>]]></content><author><name>Jan Schalla</name></author><category term="Poster" /><category term="Conference" /><category term="MEG" /><category term="Awards" /><summary type="html"><![CDATA[Congrats to Gelenar! She was just awarded 2nd place for her poster on auditory cortex engagement during silent reading at the Conference from the “Deutsche Gesellschaft für Neurologie” (DGN) in Berlin.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://florinneuro.github.io/images/news/Auditory_Evoked_Potential_White.png" /><media:content medium="image" url="https://florinneuro.github.io/images/news/Auditory_Evoked_Potential_White.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">First Duesseldorfer In-House Head cast</title><link href="https://florinneuro.github.io/2024/11/01/headcast-first.html" rel="alternate" type="text/html" title="First Duesseldorfer In-House Head cast" /><published>2024-11-01T00:00:00+00:00</published><updated>2024-11-01T00:00:00+00:00</updated><id>https://florinneuro.github.io/2024/11/01/headcast-first</id><content type="html" xml:base="https://florinneuro.github.io/2024/11/01/headcast-first.html"><![CDATA[<!-- excerpt start -->
-<p>We completed the first Head cast production in our lab! We aim to improve the Source Reconstruction Signal-to-Noise ratio substantially by providing participants with more support during measurements and restricting their head movements to a minimum.
-<!-- excerpt end --></p>
-
-<p>As part of the CRC 295 ReTune project, we are excited to share that we’ve made significant progress in implementing high-precision magnetoencephalography (hpMEG) measurements. Today, we successfully created our first individual head cast and completed an initial measurement.
-While there is still room for improvement, we are pleased with the progress we’ve made in such a short time frame. This is an important step forward in our research, especially in advancing project C01, and we look forward to refining this technique as we continue our work to better understand movement disorders and the effects of neuromodulation therapies.</p>]]></content><author><name>Jan Schalla</name></author><category term="hpMEG" /><category term="Head cast" /><category term="CRC 295" /><summary type="html"><![CDATA[We completed the first Head cast production in our lab! We aim to improve the Source Reconstruction Signal-to-Noise ratio substantially by providing participants with more support during measurements and restricting their head movements to a minimum.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://florinneuro.github.io/images/news/headcast.jpg" /><media:content medium="image" url="https://florinneuro.github.io/images/news/headcast.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+</figure>]]></content><author><name>Jan Schalla</name></author><category term="Poster" /><category term="Conference" /><category term="MEG" /><category term="Awards" /><summary type="html"><![CDATA[Congrats to Gelenar! She was just awarded 2nd place for her poster on auditory cortex engagement during silent reading at the Conference from the “Deutsche Gesellschaft für Neurologie” (DGN) in Berlin.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://florinneuro.github.io/images/news/Auditory_Evoked_Potential_White.png" /><media:content medium="image" url="https://florinneuro.github.io/images/news/Auditory_Evoked_Potential_White.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
