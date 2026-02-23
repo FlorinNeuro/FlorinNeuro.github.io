@@ -6,8 +6,8 @@ last_modified_at: ""
 tags:
   - Conference
   - DBS
-  - poster
-  - presentation
+  - Poster
+  - Presentation
 ---
 
 <!-- excerpt start -->
