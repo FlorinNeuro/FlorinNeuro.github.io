@@ -1,45 +1,123 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: pmid:41168073
-  title: 'Beyond beta rhythms: subthalamic aperiodic broadband power scales with Parkinson''s
-    disease severity-a cross-sectional multicentre study.'
+- id: doi:10.1097/j.pain.0000000000004058
+  title: Reward-induced endogenous pain inhibition scales with action-outcome certainty
+    in humans
   authors:
-  - Moritz Gerster
-  - Gunnar Waterstraat
-  - Thomas S Binns
-  - Natasha Darcy
-  - Christoph Wiest
-  - "Richard M K\xF6hler"
-  - Jojo Vanhoecke
-  - Timothy O West
+  - Fabrice Hubschmid
+  - Simon Desch
+  - Esther Florin
+  - Susanne Becker
+  publisher: Pain
+  date: '2026-06-30'
+  link: https://doi.org/hb88sn
+  orcid: 0000-0001-8276-2508
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41582-026-01239-2
+  title: 'Adaptive deep brain stimulation in Parkinson disease: clinical implementation
+    and outlook'
+  authors:
+  - Esther Florin
+  - "Andrea A. K\xFChn"
+  publisher: Nature Reviews Neurology
+  date: '2026-06-29'
+  link: https://doi.org/hb88sp
+  orcid: 0000-0001-8276-2508
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.64898/2026.05.11.723797
+  title: Role of GABA and NMDA receptors in shaping cortical timescales and large-scale
+    network dynamics
+  authors:
+  - Ana Antonia Dias Maile
+  - Oliver Kohl
+  - Eduard Ort
+  - "Monja I Frob\xF6se"
+  - Hannah Kurtenbach
+  - Markus Butz
+  - Elisabeth Schreivogel
+  - Alfons Schnitzler
+  - Esther Florin
+  - Gerhard Jocham
+  publisher: openRxiv
+  date: '2026-05-12'
+  link: https://doi.org/hb88sq
+  orcid: 0000-0001-8276-2508
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.EBIOM.2026.106140
+  title: Spatial signature of low-frequency network changes accounts for pallidal
+    stimulation outcome in cervical dystonia
+  authors:
+  - Bahne H. Bahners
+  - Roxanne Lofredi
+  - Hannah Voss
+  - "Ana Lu\xEDsa de Almeida Marcelino"
+  - Lukas L. Goede
+  - Lucia K. Feldmann
+  - Alfons Schnitzler
+  - Tilmann H. Sander
+  - Esther Florin
+  - "Andrea A. K\xFChn"
+  publisher: eBioMedicine
+  date: '2026-02-01'
+  link: https://doi.org/hb88sr
+  orcid: 0000-0001-8276-2508
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/BRAIN/AWAF445
+  title: "The deep brain stimulation response network in Parkinson\u2019s disease\
+    \ operates in the high beta band"
+  authors:
+  - Bahne H Bahners
+  - Lukas L Goede
+  - Patricia Zvarova
+  - Garance M Meyer
+  - Konstantin Butenko
+  - Roxanne Lofredi
+  - Nanditha Rajamani
+  - Frederic L W V J Schaper
+  - Clemens Neudorfer
+  - Barbara Hollunder
+  - Julianna Pijar
+  - Savir Madan
+  - Lauren A Hart
   - Matthias Sure
-  - Dmitrii Todorov
-  - Lukasz Radzinski
-  - Jeroen Habets
-  - Johannes L Busch
-  - Lucia K Feldmann
-  - Patricia Krause
+  - Alexandra Steina
+  - Fayed Rassoulou
+  - Christian J Hartmann
+  - Markus Butz
+  - Jan Hirschmann
+  - Jan Vesper
   - Katharina Faust
   - Gerd-Helge Schneider
-  - Keyoumars Ashkan
-  - Erlick Pereira
-  - Harith Akram
-  - Ludvic Zrinzo
-  - Benjamin Blankertz
-  - Arno Villringer
-  - Huiling Tan
-  - Jan Hirschmann
+  - Tilmann H Sander
+  - Wolf-Julian Neumann
+  - Michael D Fox
+  - Kai J Miller
+  - Alfons Schnitzler
   - "Andrea A K\xFChn"
   - Esther Florin
+  - Andreas Horn
+  publisher: Brain
+  date: '2026-02-06'
+  link: https://doi.org/hb88ss
+  orcid: 0000-0001-8276-2508
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/S41531-026-01372-1
+  title: "Varying patterns of association between cortical large-scale networks and\
+    \ subthalamic nucleus activity in Parkinson\u2019s disease"
+  authors:
+  - Oliver Kohl
+  - Chetan Gohil
+  - Matthias Sure
   - Alfons Schnitzler
-  - Ashwini Oswal
-  - Vladimir Litvak
-  - Wolf-Julian Neumann
-  - Gabriel Curio
-  - Vadim Nikulin
-  publisher: EBioMedicine
-  date: '2025-10-29'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/41168073
+  - Esther Florin
+  publisher: npj Parkinson's Disease
+  date: '2026-05-02'
+  link: https://doi.org/hb88st
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
@@ -51,40 +129,70 @@
   - Simon Desch
   - Esther Florin
   - Susanne Becker
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2025-11-01'
   link: https://doi.org/g98xjw
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/cercor/bhaf309
-  title: pendingpublications
-  authors: []
-  publisher: ''
-  date: ''
+  title: Spontaneous network transitions predict somatosensory perception
+  authors:
+  - Abhinav Sharma
+  - Joachim Lange
+  - Diego Vidaurre
+  - Esther Florin
+  publisher: Cerebral Cortex
+  date: '2025-11-01'
   link: https://doi.org/g97cqd
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
-- id: pmid:41153017
-  title: Subthalamic beta peak power ratio as an electrophysiological marker for deep
-    brain stimulation contact selection in Parkinson's disease.
+- id: doi:10.1016/J.EBIOM.2025.105988
+  title: "Beyond beta rhythms: subthalamic aperiodic broadband power scales with Parkinson's\
+    \ disease severity\u2013a cross-sectional multicentre study"
   authors:
-  - Victoria D M Molinari
+  - Moritz Gerster
+  - Gunnar Waterstraat
+  - Thomas S. Binns
+  - Natasha Darcy
+  - Christoph Wiest
+  - "Richard M. K\xF6hler"
+  - Jojo Vanhoecke
+  - Timothy O. West
   - Matthias Sure
-  - Rachel K Spooner
-  - Bahne H Bahners
-  - Alfons Schnitzler
+  - Dmitrii Todorov
+  - Lukasz Radzinski
+  - Jeroen Habets
+  - Johannes L. Busch
+  - Lucia K. Feldmann
+  - Patricia Krause
+  - Katharina Faust
+  - Gerd-Helge Schneider
+  - Keyoumars Ashkan
+  - Erlick Pereira
+  - Harith Akram
+  - Ludvic Zrinzo
+  - Benjamin Blankertz
+  - Arno Villringer
+  - Huiling Tan
+  - Jan Hirschmann
+  - "Andrea A. K\xFChn"
   - Esther Florin
-  - Christian J Hartmann
-  publisher: Neurological research and practice
-  date: '2025-10-28'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/41153017
+  - Alfons Schnitzler
+  - Ashwini Oswal
+  - Vladimir Litvak
+  - Wolf-Julian Neumann
+  - Gabriel Curio
+  - Vadim Nikulin
+  publisher: eBioMedicine
+  date: '2025-12-01'
+  link: https://doi.org/g98mn5
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
-- id: pmid:40582227
-  title: Longitudinal changes of resting-state networks in Parkinson's disease.
+- id: doi:10.1016/J.NICL.2025.103833
+  title: "Longitudinal changes of resting-state networks in Parkinson\u2018s disease"
   authors:
   - Matthias Sure
   - Rasha Hyder
@@ -92,30 +200,25 @@
   - Jan Vesper
   - Alfons Schnitzler
   - Esther Florin
-  publisher: NeuroImage. Clinical
-  date: '2025-06-25'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/40582227
+  publisher: 'NeuroImage: Clinical'
+  date: '2025-01-01'
+  link: https://doi.org/hb88sv
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
-- id: pmid:40487362
-  title: Predicting response speed and age from task-evoked effective connectivity.
+- id: doi:10.1101/2025.10.01.679714
+  title: Parameter scaling of multivariate Granger causality
   authors:
-  - Shufei Zhang
-  - Kyesam Jung
-  - Robert Langner
+  - Thomas Pirenne
   - Esther Florin
-  - Simon B Eickhoff
-  - Oleksandr V Popovych
-  publisher: Network neuroscience (Cambridge, Mass.)
-  date: '2025-04-30'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/40487362
+  publisher: openRxiv
+  date: '2025-10-02'
+  link: https://doi.org/hb88sw
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/hbm.26751
-  title: "Impact of data processing varieties on <scp>DCM</scp> estimates of effective\
-    \ connectivity from task\u2010<scp>fMRI</scp>"
+- id: doi:10.1162/NETN_A_00447
+  title: Predicting response speed and age from task-evoked effective connectivity
   authors:
   - Shufei Zhang
   - Kyesam Jung
@@ -123,42 +226,30 @@
   - Esther Florin
   - Simon B. Eickhoff
   - Oleksandr V. Popovych
-  publisher: Human Brain Mapping
-  date: '2024-06-01'
-  link: https://doi.org/gt8c2d
+  publisher: Network Neuroscience
+  date: '2025-01-01'
+  link: https://doi.org/hb88sx
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1038/s41531-024-00663-9
-  title: Modulation of DBS-induced cortical responses and movement by the directionality
-    and magnitude of current administered
+- id: doi:10.1186/S42466-025-00441-9
+  title: "Subthalamic beta peak power ratio as an electrophysiological marker for\
+    \ deep brain stimulation contact selection in Parkinson\u2019s disease"
   authors:
-  - Rachel K. Spooner
-  - Baccara J. Hizli
-  - Bahne H. Bahners
-  - Alfons Schnitzler
-  - Esther Florin
-  publisher: npj Parkinson's Disease
-  date: '2024-03-08'
-  link: https://doi.org/gt8c2f
-  orcid: 0000-0001-8276-2508
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1038/s41598-024-55862-4
-  title: Time-resolved quantification of fine hand movements as a proxy for evaluating
-    bradykinesia-induced motor dysfunction
-  authors:
+  - Victoria D. M. Molinari
+  - Matthias Sure
   - Rachel K. Spooner
   - Bahne H. Bahners
   - Alfons Schnitzler
   - Esther Florin
-  publisher: Scientific Reports
-  date: '2024-03-04'
-  link: https://doi.org/gt8c2g
+  - Christian J. Hartmann
+  publisher: Neurological Research and Practice
+  date: '2025-10-28'
+  link: https://doi.org/hb88sz
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/hbm.26644
+- id: doi:10.1002/HBM.26644
   title: "Data\u2010driven <scp>MEG</scp> analysis to extract <scp>fMRI</scp> resting\u2010\
     state networks"
   authors:
@@ -171,7 +262,7 @@
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.brs.2024.01.005
+- id: doi:10.1016/J.BRS.2024.01.005
   title: Deep brain stimulation device-specific artefacts in MEG recordings
   authors:
   - Bahne H. Bahners
@@ -206,63 +297,67 @@
   - "Andrea A. K\xFChn"
   - Michael D. Fox
   - Andreas Horn
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2024-10-06'
   link: https://doi.org/g8tpkg
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/mds.29626
-  title: Local Field Potentials Predict Motor Performance in Deep Brain Stimulation
-    for Parkinson's Disease
+- id: doi:10.1002/HBM.26751
+  title: "Impact of data processing varieties on <scp>DCM</scp> estimates of effective\
+    \ connectivity from task\u2010<scp>fMRI</scp>"
   authors:
-  - Johannes L. Busch
-  - Jonathan Kaplan
-  - Bahne H. Bahners
-  - Jan Roediger
-  - Katharina Faust
-  - "Gerd\u2010Helge Schneider"
+  - Shufei Zhang
+  - Kyesam Jung
+  - Robert Langner
   - Esther Florin
-  - Alfons Schnitzler
-  - Patricia Krause
-  - "Andrea A. K\xFChn"
-  publisher: Movement Disorders
-  date: '2023-10-12'
-  link: https://doi.org/gt8c2k
+  - Simon B. Eickhoff
+  - Oleksandr V. Popovych
+  publisher: Human Brain Mapping
+  date: '2024-06-01'
+  link: https://doi.org/gt8c2d
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1038/s41531-023-00474-4
-  title: "DBS-evoked cortical responses index optimal contact orientations and motor\
-    \ outcomes in Parkinson\u2019s disease"
+- id: doi:10.1038/S41531-024-00663-9
+  title: Modulation of DBS-induced cortical responses and movement by the directionality
+    and magnitude of current administered
   authors:
   - Rachel K. Spooner
+  - Baccara J. Hizli
   - Bahne H. Bahners
   - Alfons Schnitzler
   - Esther Florin
   publisher: npj Parkinson's Disease
-  date: '2023-03-11'
-  link: https://doi.org/gt8c2n
-  orcid: 0000-0001-8276-2508
-  plugin: sources.py
-  file: sources.yaml
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41531-023-00474-4/MediaObjects/41531_2023_474_Fig2_HTML.png
-- id: doi:10.1016/j.brs.2023.02.014
-  title: Subthalamic stimulation evoked cortical responses relate to motor performance
-    in Parkinson's disease
-  authors:
-  - Bahne H. Bahners
-  - Rachel K. Spooner
-  - Christian J. Hartmann
-  - Alfons Schnitzler
-  - Esther Florin
-  publisher: Brain Stimulation
-  date: '2023-03-01'
-  link: https://doi.org/gsx7mk
+  date: '2024-03-08'
+  link: https://doi.org/gt8c2f
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.3390/s23115238
+- id: doi:10.1038/S41598-024-55862-4
+  title: Time-resolved quantification of fine hand movements as a proxy for evaluating
+    bradykinesia-induced motor dysfunction
+  authors:
+  - Rachel K. Spooner
+  - Bahne H. Bahners
+  - Alfons Schnitzler
+  - Esther Florin
+  publisher: Scientific Reports
+  date: '2024-03-04'
+  link: https://doi.org/gt8c2g
+  orcid: 0000-0001-8276-2508
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:001337043900190
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:001337043900190
+  orcid: 0000-0001-8276-2508
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/S23115238
   title: 'A First Methodological Development and Validation of ReTap: An Open-Source
     UPDRS Finger Tapping Assessment Tool Based on Accelerometer-Data'
   authors:
@@ -282,7 +377,7 @@
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.3389/fnsys.2023.1219334
+- id: doi:10.3389/FNSYS.2023.1219334
   title: "Alterations of PAC-based resting state networks in Parkinson\u2019s disease\
     \ are partially alleviated by levodopa medication"
   authors:
@@ -296,7 +391,7 @@
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.nicl.2023.103317
+- id: doi:10.1016/J.NICL.2023.103317
   title: "Alterations of resting-state networks of Parkinson\u2018s disease patients\
     \ after subthalamic DBS surgery"
   authors:
@@ -311,7 +406,7 @@
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1162/imag_a_00029
+- id: doi:10.1162/IMAG_A_00029
   title: "Combining magnetoencephalography with telemetric streaming of intracranial\
     \ recordings and deep brain stimulation\u2014A feasibility study"
   authors:
@@ -328,6 +423,55 @@
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1038/S41531-023-00474-4
+  title: "DBS-evoked cortical responses index optimal contact orientations and motor\
+    \ outcomes in Parkinson\u2019s disease"
+  authors:
+  - Rachel K. Spooner
+  - Bahne H. Bahners
+  - Alfons Schnitzler
+  - Esther Florin
+  publisher: npj Parkinson's Disease
+  date: '2023-03-11'
+  link: https://doi.org/gt8c2n
+  orcid: 0000-0001-8276-2508
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.10.25.563956
+  title: Deep brain stimulation device-specific artefacts in MEG recordings
+  authors:
+  - Bahne H. Bahners
+  - Roxanne Lofredi
+  - Tilmann Sander
+  - Alfons Schnitzler
+  - "Andrea A. K\xFChn"
+  - Esther Florin
+  publisher: openRxiv
+  date: '2023-10-30'
+  link: https://doi.org/gt8c2m
+  orcid: 0000-0001-8276-2508
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/MDS.29626
+  title: Local Field Potentials Predict Motor Performance in Deep Brain Stimulation
+    for Parkinson's Disease
+  authors:
+  - Johannes L. Busch
+  - Jonathan Kaplan
+  - Bahne H. Bahners
+  - Jan Roediger
+  - Katharina Faust
+  - "Gerd\u2010Helge Schneider"
+  - Esther Florin
+  - Alfons Schnitzler
+  - Patricia Krause
+  - "Andrea A. K\xFChn"
+  publisher: Movement Disorders
+  date: '2023-10-12'
+  link: https://doi.org/gt8c2k
+  orcid: 0000-0001-8276-2508
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2023.11.08.23298114
   title: "Resting State Network alterations during Deep Brain Stimulation in Parkinson\u2019\
     s Disease"
@@ -335,13 +479,13 @@
   - Ahmet Levent Kandemir
   - Alfons Schnitzler
   - Esther Florin
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2023-11-09'
   link: https://doi.org/g8tpkm
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/mds.29378
+- id: doi:10.1002/MDS.29378
   title: "Slowing of Frontal <scp>\u03B2</scp> Oscillations in Atypical Parkinsonism"
   authors:
   - "Marius Kr\xF6sche"
@@ -357,23 +501,22 @@
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/braincomms/fcac331
-  title: "Whole-brain dynamical modelling for classification of Parkinson\u2019s disease"
+- id: doi:10.1016/J.BRS.2023.02.014
+  title: Subthalamic stimulation evoked cortical responses relate to motor performance
+    in Parkinson's disease
   authors:
-  - Kyesam Jung
+  - Bahne H. Bahners
+  - Rachel K. Spooner
+  - Christian J. Hartmann
+  - Alfons Schnitzler
   - Esther Florin
-  - Kaustubh R Patil
-  - Julian Caspers
-  - Christian Rubbert
-  - Simon B Eickhoff
-  - Oleksandr V Popovych
-  publisher: Brain Communications
-  date: '2022-12-15'
-  link: https://doi.org/gt8c2p
+  publisher: Brain Stimulation
+  date: '2023-03-01'
+  link: https://doi.org/gsx7mk
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.neuroimage.2022.119619
+- id: doi:10.1016/J.NEUROIMAGE.2022.119619
   title: Cortical network formation based on subthalamic beta bursts in Parkinson's
     disease
   authors:
@@ -387,7 +530,7 @@
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1523/jneurosci.0630-21.2022
+- id: doi:10.1523/JNEUROSCI.0630-21.2022
   title: Cross-Frequency Brain Network Dynamics Support Pitch Change Detection
   authors:
   - Soheila Samiee
@@ -402,7 +545,7 @@
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.expneurol.2022.114031
+- id: doi:10.1016/J.EXPNEUROL.2022.114031
   title: Electrophysiological characterization of the hyperdirect pathway and its
     functional relevance for subthalamic deep brain stimulation
   authors:
@@ -419,7 +562,7 @@
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.brs.2022.05.008
+- id: doi:10.1016/J.BRS.2022.05.008
   title: Neuronal oscillations predict deep brain stimulation outcome in Parkinson's
     disease
   authors:
@@ -434,7 +577,7 @@
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.3233/jpd-212960
+- id: doi:10.3233/JPD-212960
   title: "No Higher Risk-Seeking Tendencies or Altered Self-Estimation in a Social\
     \ Decision-Making Task in Patients with Parkinson\u2019s Disease"
   authors:
@@ -452,7 +595,7 @@
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1007/s12021-022-09581-8
+- id: doi:10.1007/S12021-022-09581-8
   title: 'Separating Neural Oscillations from Aperiodic 1/f Activity: Challenges and
     Recommendations'
   authors:
@@ -470,7 +613,7 @@
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1038/s41531-022-00301-2
+- id: doi:10.1038/S41531-022-00301-2
   title: 'Toward therapeutic electrophysiology: beta-band suppression as a biomarker
     in chronic local field potential recordings'
   authors:
@@ -495,6 +638,22 @@
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1093/BRAINCOMMS/FCAC331
+  title: "Whole-brain dynamical modelling for classification of Parkinson\u2019s disease"
+  authors:
+  - Kyesam Jung
+  - Esther Florin
+  - Kaustubh R Patil
+  - Julian Caspers
+  - Christian Rubbert
+  - Simon B Eickhoff
+  - Oleksandr V Popovych
+  publisher: Brain Communications
+  date: '2022-12-15'
+  link: https://doi.org/gt8c2p
+  orcid: 0000-0001-8276-2508
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2021.10.15.464483
   title: 'Separating neural oscillations from aperiodic 1/f activity: challenges and
     recommendations'
@@ -507,42 +666,13 @@
   - Esther Florin
   - Gabriel Curio
   - Vadim Nikulin
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2021-10-16'
   link: https://doi.org/gt8c2r
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.7554/eLife.66057
-  title: "Differential dopaminergic modulation of spontaneous cortico\u2013subthalamic\
-    \ activity in Parkinson\u2019s disease"
-  authors:
-  - Abhinav Sharma
-  - Diego Vidaurre
-  - Jan Vesper
-  - Alfons Schnitzler
-  - Esther Florin
-  publisher: eLife
-  date: '2021-06-04'
-  link: https://doi.org/gkffx2
-  orcid: 0000-0001-8276-2508
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.neuroimage.2020.117447
-  title: EEG and MEG primers for tracking DBS network effects
-  authors:
-  - Vladimir Litvak
-  - Esther Florin
-  - "Gertr\xFAd Tam\xE1s"
-  - Sergiu Groppa
-  - Muthuraman Muthuraman
-  publisher: NeuroImage
-  date: '2021-01-01'
-  link: https://doi.org/ghf35v
-  orcid: 0000-0001-8276-2508
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pone.0247408
+- id: doi:10.1371/JOURNAL.PONE.0247408
   title: 'Conflict processing networks: A directional analysis of stimulus-response
     compatibilities using MEG'
   authors:
@@ -560,7 +690,22 @@
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.3389/fnins.2021.724334
+- id: doi:10.7554/ELIFE.66057
+  title: "Differential dopaminergic modulation of spontaneous cortico\u2013subthalamic\
+    \ activity in Parkinson\u2019s disease"
+  authors:
+  - Abhinav Sharma
+  - Diego Vidaurre
+  - Jan Vesper
+  - Alfons Schnitzler
+  - Esther Florin
+  publisher: eLife
+  date: '2021-06-04'
+  link: https://doi.org/gkffx2
+  orcid: 0000-0001-8276-2508
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/FNINS.2021.724334
   title: Dopaminergic Modulation of Spectral and Spatial Characteristics of Parkinsonian
     Subthalamic Nucleus Beta Bursts
   authors:
@@ -574,47 +719,21 @@
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1002/mds.28241
-  title: Recovery of Impaired Endogenous Pain Modulation by Dopaminergic Medication
-    in Parkinson's Disease
+- id: doi:10.1016/J.NEUROIMAGE.2020.117447
+  title: EEG and MEG primers for tracking DBS network effects
   authors:
-  - Esther Florin
-  - Kim C. Koschmieder
-  - Alfons Schnitzler
-  - Susanne Becker
-  publisher: Movement Disorders
-  date: '2020-09-18'
-  link: https://doi.org/gt8c2t
-  orcid: 0000-0001-8276-2508
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.neuroimage.2020.117057
-  title: The comparative performance of DBS artefact rejection methods for MEG recordings
-  authors:
-  - Ahmet Levent Kandemir
   - Vladimir Litvak
   - Esther Florin
+  - "Gertr\xFAd Tam\xE1s"
+  - Sergiu Groppa
+  - Muthuraman Muthuraman
   publisher: NeuroImage
-  date: '2020-10-01'
-  link: https://doi.org/gt8c2w
+  date: '2021-01-01'
+  link: https://doi.org/ghf35v
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.31234/osf.io/tv49d
-  title: Pre-target neural oscillations predict variability in the detection of small
-    pitch changes
-  authors:
-  - Esther Florin
-  - Dominique T Vuvan
-  - Isabelle Peretz
-  - Sylvain Baillet
-  publisher: Center for Open Science
-  date: '2020-02-12'
-  link: https://doi.org/hbbm94
-  orcid: 0000-0001-8276-2508
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.neuroimage.2020.116518
+- id: doi:10.1016/J.NEUROIMAGE.2020.116518
   title: "Characterization of information processing in the subthalamic area of Parkinson\u2019\
     s patients"
   authors:
@@ -629,7 +748,7 @@
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.3389/fneur.2020.00655
+- id: doi:10.3389/FNEUR.2020.00655
   title: Deep Brain Stimulation Does Not Modulate Auditory-Motor Integration of Speech
     in Parkinson's Disease
   authors:
@@ -647,7 +766,7 @@
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.nicl.2019.102147
+- id: doi:10.1016/J.NICL.2019.102147
   title: 'Electrophysiological resting state networks of predominantly akinetic-rigid
     Parkinson patients: Effects of dopamine therapy'
   authors:
@@ -661,7 +780,21 @@
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.neuroimage.2019.116374
+- id: doi:10.1002/MDS.28241
+  title: Recovery of Impaired Endogenous Pain Modulation by Dopaminergic Medication
+    in Parkinson's Disease
+  authors:
+  - Esther Florin
+  - Kim C. Koschmieder
+  - Alfons Schnitzler
+  - Susanne Becker
+  publisher: Movement Disorders
+  date: '2020-09-18'
+  link: https://doi.org/gt8c2t
+  orcid: 0000-0001-8276-2508
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.NEUROIMAGE.2019.116374
   title: "Spontaneous network activity &lt;35\_\u200BHz accounts for variability in\
     \ stimulus-induced gamma responses"
   authors:
@@ -677,7 +810,19 @@
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.3389/fncir.2019.00050
+- id: doi:10.1016/J.NEUROIMAGE.2020.117057
+  title: The comparative performance of DBS artefact rejection methods for MEG recordings
+  authors:
+  - Ahmet Levent Kandemir
+  - Vladimir Litvak
+  - Esther Florin
+  publisher: NeuroImage
+  date: '2020-10-01'
+  link: https://doi.org/gt8c2w
+  orcid: 0000-0001-8276-2508
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/FNCIR.2019.00050
   title: "Quantitative Susceptibility Mapping and Resting State Network Analyses in\
     \ Parkinsonian Phenotypes\u2014A Systematic Review of the Literature"
   authors:
@@ -690,7 +835,28 @@
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1005990
+- id: wosuid:WOS:000466928300099
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000466928300099
+  orcid: 0000-0001-8276-2508
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/FNCOM.2018.00026
+  title: 'Commentary: Evaluation of Phase-Amplitude Coupling in Resting State Magnetoencephalographic
+    Signals: Effect of Surrogates and Evaluation Approach'
+  authors:
+  - Esther Florin
+  - Sylvain Baillet
+  publisher: Frontiers in Computational Neuroscience
+  date: '2018-04-16'
+  link: https://doi.org/gt8c23
+  orcid: 0000-0001-8276-2508
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/JOURNAL.PCBI.1005990
   title: Imaging of neural oscillations with embedded inferential and group prevalence
     statistics
   authors:
@@ -703,33 +869,7 @@
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.3389/fncom.2018.00026
-  title: 'Commentary: Evaluation of Phase-Amplitude Coupling in Resting State Magnetoencephalographic
-    Signals: Effect of Surrogates and Evaluation Approach'
-  authors:
-  - Esther Florin
-  - Sylvain Baillet
-  publisher: Frontiers in Computational Neuroscience
-  date: '2018-04-16'
-  link: https://doi.org/gt8c23
-  orcid: 0000-0001-8276-2508
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pone.0177836
-  title: Pre-target neural oscillations predict variability in the detection of small
-    pitch changes
-  authors:
-  - Esther Florin
-  - Dominique Vuvan
-  - Isabelle Peretz
-  - Sylvain Baillet
-  publisher: PLOS ONE
-  date: '2017-05-18'
-  link: https://doi.org/f98386
-  orcid: 0000-0001-8276-2508
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.jneumeth.2017.08.021
+- id: doi:10.1016/J.JNEUMETH.2017.08.021
   title: 'Phase-coherence classification: A new wavelet-based method to separate local
     field potentials into local (in)coherent and volume-conducted components'
   authors:
@@ -745,7 +885,21 @@
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pone.0188210
+- id: doi:10.1371/JOURNAL.PONE.0177836
+  title: Pre-target neural oscillations predict variability in the detection of small
+    pitch changes
+  authors:
+  - Esther Florin
+  - Dominique Vuvan
+  - Isabelle Peretz
+  - Sylvain Baillet
+  publisher: PLOS ONE
+  date: '2017-05-18'
+  link: https://doi.org/f98386
+  orcid: 0000-0001-8276-2508
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/JOURNAL.PONE.0188210
   title: The influence of filtering and downsampling on the estimation of transfer
     entropy
   authors:
@@ -759,7 +913,7 @@
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.neuroscience.2016.06.052
+- id: doi:10.1016/J.NEUROSCIENCE.2016.06.052
   title: Parkinson subtype-specific Granger-causal coupling and coherence frequency
     in the subthalamic area
   authors:
@@ -774,7 +928,7 @@
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.neuroimage.2015.01.054
+- id: doi:10.1016/J.NEUROIMAGE.2015.01.054
   title: The brain's resting-state activity is shaped by synchronized cross-frequency
     coupling of neural oscillations
   authors:
@@ -784,10 +938,9 @@
   date: '2015-05-01'
   link: https://doi.org/f676vj
   orcid: 0000-0001-8276-2508
-  plugin: sources.py
-  file: sources.yaml
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S1053811915000804-gr5.jpg
-- id: doi:10.1016/j.conb.2014.10.006
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.CONB.2014.10.006
   title: The role of sub-second neural events in spontaneous brain activity
   authors:
   - Esther Florin
@@ -799,7 +952,7 @@
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/cercor/bht140
+- id: doi:10.1093/CERCOR/BHT140
   title: Dopamine Replacement Modulates Oscillatory Coupling Between Premotor and
     Motor Cortical Areas in Parkinson's Disease
   authors:
@@ -818,7 +971,7 @@
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1007/s00415-013-7199-1
+- id: doi:10.1007/S00415-013-7199-1
   title: "Gait and upper limb variability in Parkinson\u2019s disease patients with\
     \ and without freezing of gait"
   authors:
@@ -837,7 +990,7 @@
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.neuroimage.2013.11.023
+- id: doi:10.1016/J.NEUROIMAGE.2013.11.023
   title: Levodopa reinstates connectivity from prefrontal to premotor cortex during
     externally paced movement in Parkinson's disease
   authors:
@@ -853,7 +1006,7 @@
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.neuroimage.2013.10.028
+- id: doi:10.1016/J.NEUROIMAGE.2013.10.028
   title: Targeted reinforcement of neural oscillatory activity with real-time neuroimaging
     feedback
   authors:
@@ -866,7 +1019,24 @@
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.neulet.2013.02.068
+- id: doi:10.1016/J.NEUROSCIENCE.2013.01.051
+  title: "Does increased gamma activity in patients suffering from Parkinson\u2019\
+    s disease counteract the movement inhibiting beta activity?"
+  authors:
+  - E. Florin
+  - R. Erasmi
+  - C. Reck
+  - M. Maarouf
+  - A. Schnitzler
+  - G.R. Fink
+  - L. Timmermann
+  publisher: Neuroscience
+  date: '2013-05-01'
+  link: https://doi.org/f4vhkz
+  orcid: 0000-0001-8276-2508
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.NEULET.2013.02.068
   title: Discontinuities in slow finger movements in patients with Parkinson's disease
   authors:
   - L.M. Bettray
@@ -884,25 +1054,7 @@
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.neuroscience.2013.01.051
-  title: "Does increased gamma activity in patients suffering from Parkinson\u2019\
-    s disease counteract the movement inhibiting beta activity?"
-  authors:
-  - E. Florin
-  - R. Erasmi
-  - C. Reck
-  - M. Maarouf
-  - A. Schnitzler
-  - G.R. Fink
-  - L. Timmermann
-  publisher: Neuroscience
-  date: '2013-05-01'
-  link: https://doi.org/f4vhkz
-  orcid: 0000-0001-8276-2508
-  plugin: sources.py
-  file: sources.yaml
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S030645221300095X-gr2.jpg
-- id: doi:10.1016/j.neuroscience.2013.02.043
+- id: doi:10.1016/J.NEUROSCIENCE.2013.02.043
   title: "Modulation of local field potential power of the subthalamic nucleus during\
     \ isometric force generation in patients with Parkinson\u2019s disease"
   authors:
@@ -921,7 +1073,7 @@
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.compbiomed.2012.11.009
+- id: doi:10.1016/J.COMPBIOMED.2012.11.009
   title: Statistical pitfalls in the comparison of multivariate causality measures
     for effective causality
   authors:
@@ -933,7 +1085,7 @@
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/brain/awt241
+- id: doi:10.1093/BRAIN/AWT241
   title: "Subthalamic stimulation modulates self-estimation of patients with Parkinson\u2019\
     s disease and induces risk-seeking behaviour"
   authors:
@@ -949,7 +1101,7 @@
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1055/s-0032-1326957
+- id: doi:10.1055/S-0032-1326957
   title: Clinical Outcome of Subthalamic Stimulation in Parkinson's Disease is Improved
     by Intraoperative Multiple Trajectories Microelectrode Recording
   authors:
@@ -968,7 +1120,7 @@
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.expneurol.2012.07.002
+- id: doi:10.1016/J.EXPNEUROL.2012.07.002
   title: "Essential tremor and tremor in Parkinson's disease are associated with distinct\
     \ \u2018tremor clusters\u2019 in the ventral thalamus"
   authors:
@@ -989,7 +1141,7 @@
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.expneurol.2011.10.022
+- id: doi:10.1016/J.EXPNEUROL.2011.10.022
   title: "Parkinson's disease and pathological oscillatory activity: Is the beta band\
     \ the bad guy? \u2014 New lessons learned from low-frequency deep brain stimulation"
   authors:
@@ -1001,7 +1153,7 @@
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.neuroscience.2012.02.045
+- id: doi:10.1016/J.NEUROSCIENCE.2012.02.045
   title: Subtype-specific statistical causalities in parkinsonian tremor
   authors:
   - E. Florin
@@ -1018,7 +1170,7 @@
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.neuroimage.2011.11.042
+- id: doi:10.1016/J.NEUROIMAGE.2011.11.042
   title: 'Task-specific modulation of effective connectivity during two simple unimanual
     motor tasks: A 122-channel EEG study'
   authors:
@@ -1038,7 +1190,7 @@
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.expneurol.2011.04.005
+- id: doi:10.1016/J.EXPNEUROL.2011.04.005
   title: 'Deep brain stimulation of the ventral intermediate nucleus in patients with
     essential tremor: Stimulation below intercommissural line is more efficient but
     equally effective as stimulation above'
@@ -1061,7 +1213,7 @@
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.jneumeth.2011.04.005
+- id: doi:10.1016/J.JNEUMETH.2011.04.005
   title: Reliability of multivariate causality measures for neural data
   authors:
   - Esther Florin
@@ -1075,7 +1227,7 @@
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1111/j.1460-9568.2010.07083.x
+- id: doi:10.1111/J.1460-9568.2010.07083.X
   title: "Causality between local field potentials of the subthalamic nucleus and\
     \ electromyograms of forearm muscles in Parkinson\u2019s disease"
   authors:
@@ -1093,7 +1245,7 @@
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1111/j.1460-9568.2010.07362.x
+- id: doi:10.1111/J.1460-9568.2010.07362.X
   title: 'Coherence analysis of local field potentials in the subthalamic nucleus:
     differences in parkinsonian rest and postural tremor'
   authors:
@@ -1112,7 +1264,7 @@
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.neuroimage.2009.12.050
+- id: doi:10.1016/J.NEUROIMAGE.2009.12.050
   title: The effect of filtering on Granger causality based multivariate causality
     measures
   authors:
@@ -1125,10 +1277,9 @@
   date: '2010-04-01'
   link: https://doi.org/df6w8b
   orcid: 0000-0001-8276-2508
-  plugin: sources.py
-  file: sources.yaml
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S1053811909013391-gr1.jpg
-- id: doi:10.1111/j.1460-9568.2008.06597.x
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/J.1460-9568.2008.06597.X
   title: "Characterisation of tremor\u2010associated local field potentials in the\
     \ subthalamic nucleus in Parkinson\u2019s disease"
   authors:
@@ -1148,7 +1299,7 @@
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.clinph.2009.05.018
+- id: doi:10.1016/J.CLINPH.2009.05.018
   title: "Differential distribution of coherence between beta-band subthalamic oscillations\
     \ and forearm muscles in Parkinson\u2019s disease during isometric contraction"
   authors:
@@ -1166,7 +1317,7 @@
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.clinph.2008.05.026
+- id: doi:10.1016/J.CLINPH.2008.05.026
   title: "Ten Hertz thalamus stimulation increases tremor activity in the subthalamic\
     \ nucleus in a patient with Parkinson\u2019s disease"
   authors:
@@ -1210,3 +1361,61 @@
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1016/j.neuroimage.2015.01.054
+  title: The brain's resting-state activity is shaped by synchronized cross-frequency
+    coupling of neural oscillations
+  authors:
+  - Esther Florin
+  - Sylvain Baillet
+  publisher: NeuroImage
+  date: '2015-05-01'
+  link: https://doi.org/f676vj
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1053811915000804-gr5.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.neuroimage.2009.12.050
+  title: The effect of filtering on Granger causality based multivariate causality
+    measures
+  authors:
+  - Esther Florin
+  - Joachim Gross
+  - Johannes Pfeifer
+  - Gereon R. Fink
+  - Lars Timmermann
+  publisher: NeuroImage
+  date: '2010-04-01'
+  link: https://doi.org/df6w8b
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1053811909013391-gr1.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.neuroscience.2013.01.051
+  title: "Does increased gamma activity in patients suffering from Parkinson\u2019\
+    s disease counteract the movement inhibiting beta activity?"
+  authors:
+  - E. Florin
+  - R. Erasmi
+  - C. Reck
+  - M. Maarouf
+  - A. Schnitzler
+  - G.R. Fink
+  - L. Timmermann
+  publisher: Neuroscience
+  date: '2013-05-01'
+  link: https://doi.org/f4vhkz
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S030645221300095X-gr2.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41531-023-00474-4
+  title: "DBS-evoked cortical responses index optimal contact orientations and motor\
+    \ outcomes in Parkinson\u2019s disease"
+  authors:
+  - Rachel K. Spooner
+  - Bahne H. Bahners
+  - Alfons Schnitzler
+  - Esther Florin
+  publisher: npj Parkinson's Disease
+  date: '2023-03-11'
+  link: https://doi.org/gt8c2n
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41531-023-00474-4/MediaObjects/41531_2023_474_Fig2_HTML.png
+  plugin: sources.py
+  file: sources.yaml
