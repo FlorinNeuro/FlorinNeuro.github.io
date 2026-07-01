@@ -1370,7 +1370,7 @@
   publisher: NeuroImage
   date: '2015-05-01'
   link: https://doi.org/f676vj
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S1053811915000804-gr5.jpg
+  image: images/publications/florin2015.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.neuroimage.2009.12.050
@@ -1385,7 +1385,7 @@
   publisher: NeuroImage
   date: '2010-04-01'
   link: https://doi.org/df6w8b
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S1053811909013391-gr1.jpg
+  image: images/publications/florin2009.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.neuroscience.2013.01.051
@@ -1402,7 +1402,7 @@
   publisher: Neuroscience
   date: '2013-05-01'
   link: https://doi.org/f4vhkz
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S030645221300095X-gr2.jpg
+  image: images/publications/florin2013.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41531-023-00474-4
@@ -1416,6 +1416,6 @@
   publisher: npj Parkinson's Disease
   date: '2023-03-11'
   link: https://doi.org/gt8c2n
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41531-023-00474-4/MediaObjects/41531_2023_474_Fig2_HTML.png
+  image: images/publications/spooner2023.png
   plugin: sources.py
   file: sources.yaml
