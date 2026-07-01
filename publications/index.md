@@ -13,13 +13,13 @@ nav:
 
 ## Key Publications
 
-{% include citation.html lookup="The brain's resting-state activity is shaped by synchronized cross-frequency coupling of neural oscillations" style="rich" %}
+{% include citation.html lookup="doi:10.1038/s41531-023-00474-4" style="rich" %}
 
-{% include citation.html lookup="The effect of filtering on Granger causality based multivariate causality measures" style="rich" %}
+{% include citation.html lookup="doi:10.1016/j.neuroimage.2015.01.054" style="rich" %}
 
-{% include citation.html lookup="Does increased gamma activity in patients suffering from Parkinson’s disease counteract the movement inhibiting beta activity" style="rich" %}
+{% include citation.html lookup="doi:10.1016/j.neuroscience.2013.01.051" style="rich" %}
 
-{% include citation.html lookup="DBS-evoked cortical responses index optimal contact orientations and motor outcomes in Parkinson" style="rich" %}
+{% include citation.html lookup="doi:10.1016/j.neuroimage.2009.12.050" style="rich" %}
 
 {% include section.html %}
 
