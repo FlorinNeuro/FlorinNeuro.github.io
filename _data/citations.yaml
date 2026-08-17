@@ -1,5 +1,17 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1038/s41582-026-01239-2
+  title: 'Adaptive deep brain stimulation in Parkinson disease: clinical implementation
+    and outlook'
+  authors:
+  - Esther Florin
+  - "Andrea A. K\xFChn"
+  publisher: Nature Reviews Neurology
+  date: '2026-06-29'
+  link: https://doi.org/hb88sp
+  orcid: 0000-0001-8276-2508
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1097/j.pain.0000000000004058
   title: Reward-induced endogenous pain inhibition scales with action-outcome certainty
     in humans
@@ -11,18 +23,6 @@
   publisher: Pain
   date: '2026-06-30'
   link: https://doi.org/hb88sn
-  orcid: 0000-0001-8276-2508
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1038/s41582-026-01239-2
-  title: 'Adaptive deep brain stimulation in Parkinson disease: clinical implementation
-    and outlook'
-  authors:
-  - Esther Florin
-  - "Andrea A. K\xFChn"
-  publisher: Nature Reviews Neurology
-  date: '2026-06-29'
-  link: https://doi.org/hb88sp
   orcid: 0000-0001-8276-2508
   plugin: orcid.py
   file: orcid.yaml
