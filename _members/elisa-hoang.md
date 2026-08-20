@@ -1,10 +1,10 @@
 ---
 name: Elisa Hoang
 image: images/team/default.png
-role: undergrad-master, shk
+role: undergrad-master
 alumni: false
 links:
   email: elisa.hoang@med.uni-duesseldorf.de
 ---
 
-Elisa Hoang (SHK - Studentische Hilfskraft)
+Elisa Hoang (Masterstudentin & SHK - Studentische Hilfskraft)
