@@ -2,7 +2,7 @@
 name: Anna Schneider
 image: images/team/default.png
 role: shk
-alumni: false
+alumni: true
 links:
   email: Anna.Schneider@med.uni-duesseldorf.de
 ---
