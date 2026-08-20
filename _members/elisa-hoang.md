@@ -7,4 +7,4 @@ links:
   email: elisa.hoang@med.uni-duesseldorf.de
 ---
 
-Elisa Hoang (Masterstudentin & SHK - Studentische Hilfskraft)
+B. Sc. Elisa Hoang (cand. M. Sc. & SHK - Studentische Hilfskraft)
