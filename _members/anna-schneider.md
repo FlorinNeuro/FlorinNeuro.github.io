@@ -1,6 +1,6 @@
 ---
 name: Anna Schneider
-image: images/team/default.png
+image: images/team/alumni.png
 role: shk
 alumni: true
 links:
