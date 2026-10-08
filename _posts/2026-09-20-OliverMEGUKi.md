@@ -1,7 +1,7 @@
 ---
 title: Oliver presented at MEG UKi
 author: Jan Schlla
-image: 
+image: images/news/Oliver_HMM_results.jpg
 last_modified_at: ""
 tags:
   - Conference
