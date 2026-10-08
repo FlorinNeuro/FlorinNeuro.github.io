@@ -19,3 +19,9 @@ The findings demonstrate that increasing GABAergic activity prolongs neuronal ti
 particularly the frontal default mode and dorsal attention networks. 
 Together, the results provide exciting evidence linking synaptic inhibition to the temporal organization of brain activity likely underlying cognition.
 
+{%
+  include figure.html
+  image="images/news/Oliver_HMM_results.jpg"
+  caption="State transition probabilites"
+  width="600px"
+%}
