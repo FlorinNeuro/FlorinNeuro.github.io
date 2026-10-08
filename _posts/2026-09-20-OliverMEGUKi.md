@@ -22,6 +22,6 @@ Together, the results provide exciting evidence linking synaptic inhibition to t
 {%
   include figure.html
   image="images/news/Oliver_HMM_results.jpg"
-  caption="State transition probabilites"
+  caption=""
   width="600px"
 %}
