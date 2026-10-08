@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://florinneuro.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://florinneuro.github.io/" rel="alternate" type="text/html" /><updated>2026-10-08T12:36:39+00:00</updated><id>https://florinneuro.github.io/feed.xml</id><title type="html">Florin Lab</title><subtitle>Website of Esther Florin&apos;s Neuroscience lab at the University Clinic of Düsseldorf (UKD).</subtitle><entry><title type="html">Oliver presented at MEG UKi</title><link href="https://florinneuro.github.io/2026/09/20/OliverMEGUKi.html" rel="alternate" type="text/html" title="Oliver presented at MEG UKi" /><published>2026-09-20T00:00:00+00:00</published><updated>2026-09-20T00:00:00+00:00</updated><id>https://florinneuro.github.io/2026/09/20/OliverMEGUKi</id><content type="html" xml:base="https://florinneuro.github.io/2026/09/20/OliverMEGUKi.html"><![CDATA[<!-- excerpt start -->
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://florinneuro.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://florinneuro.github.io/" rel="alternate" type="text/html" /><updated>2026-10-08T12:43:20+00:00</updated><id>https://florinneuro.github.io/feed.xml</id><title type="html">Florin Lab</title><subtitle>Website of Esther Florin&apos;s Neuroscience lab at the University Clinic of Düsseldorf (UKD).</subtitle><entry><title type="html">Oliver presented at MEG UKi</title><link href="https://florinneuro.github.io/2026/09/20/OliverMEGUKi.html" rel="alternate" type="text/html" title="Oliver presented at MEG UKi" /><published>2026-09-20T00:00:00+00:00</published><updated>2026-09-20T00:00:00+00:00</updated><id>https://florinneuro.github.io/2026/09/20/OliverMEGUKi</id><content type="html" xml:base="https://florinneuro.github.io/2026/09/20/OliverMEGUKi.html"><![CDATA[<!-- excerpt start -->
 <p>Oliver recently attended MEGUIK 2026 in Nottingham, where he presented findings from his latest collaboration with Antonia Dias Maile and Gerhard Joacham. 
 <!-- excerpt end -->
 Oliver recently attended MEGUIK 2026 in Nottingham, where he presented findings from his latest collaboration with Antonia Dias Maile and Gerhard Joacham. 
@@ -8,15 +8,15 @@ particularly the frontal default mode and dorsal attention networks.
 Together, the results provide exciting evidence linking synaptic inhibition to the temporal organization of brain activity likely underlying cognition.</p>
 
 <figure class="figure">
-  <a class="figure-image" aria-label="State transition probabilites">
+  <a class="figure-image" aria-label="figure link">
     <img src="/images/news/Oliver_HMM_results.jpg" style="
         width: 600px;
         max-height: unset;
-      " alt="State transition probabilites" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
+      " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
   </a>
   
     <figcaption class="figure-caption">
-      State transition probabilites
+      
 
     </figcaption>
   
