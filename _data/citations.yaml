@@ -1,5 +1,23 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.64898/2026.10.08.26365079
+  title: "Static and dynamic noise abolish altruistic biases in Parkinson\u2019s disease\
+    \ independent of deep brain stimulation"
+  authors:
+  - Fabrice Hubschmid
+  - Manuela Sellitto
+  - Bahne Hendrik Bahners
+  - Thomas Pirenne
+  - Tobias Kalenscher
+  - Alfons Schnitzler
+  - Marijn Van Wingerden
+  - Esther Florin
+  publisher: openRxiv
+  date: '2026-10-11'
+  link: https://doi.org/hcm6gh
+  orcid: 0000-0001-8276-2508
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1097/j.pain.0000000000004058
   title: Reward-induced endogenous pain inhibition scales with action-outcome certainty
     in humans
