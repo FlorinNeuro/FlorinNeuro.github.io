@@ -9,11 +9,27 @@
 
 {% assign type = site.data.types[member.role] %}
 
+{% assign portrait_href = "" %}
+
+{% if member.alumni %}
+  {% assign portrait_aliases = member.aliases
+    | default: member.name
+    | join: ","
+    | split: ","
+    | array_filter
+  %}
+  {% capture portrait_search -%}
+    publications/?search={% for alias in portrait_aliases %}%22{{ alias | strip | url_encode }}%22+{% endfor %}
+  {%- endcapture %}
+  {% assign portrait_href = portrait_search | strip | relative_url %}
+
+{% elsif page.slug != member.slug %}
+  {% assign portrait_href = member.url | relative_url %}
+{% endif %}
+
 <div class="portrait-wrapper">
   <a
-    {% if page.slug != member.slug %}
-      href="{{ member.url | relative_url }}"
-    {% endif %}
+    {% if portrait_href != blank %}href="{{ portrait_href }}"{% endif %}
     class="portrait"
     data-style="{{ include.style }}"
     aria-label="{{ member.name | default: "member link" }}"

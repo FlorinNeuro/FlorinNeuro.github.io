@@ -23,4 +23,8 @@ nav:
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" style="small" filters="alumni: true" %}
+{% include list.html data="members" component="portrait" style="small" filters="role: postdoc, alumni: true" %}
+<br>
+{% include list.html data="members" component="portrait" style="small" filters="role: (phd|md$), alumni: true" %}
+<br>
+{% include list.html data="members" component="portrait" style="small" filters="role: (undergrad-master|undergrad-bachelor$), alumni: true" %}
