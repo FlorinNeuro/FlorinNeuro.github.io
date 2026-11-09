@@ -97,15 +97,15 @@
     - MEG
     - LFP
 
-- title: Perspectives
-  subtitle: Brain Networks in Parkinson’s Disease
-  group: pd-bn
-  image: images/perspectives.jpg
-  link: research/bn-perspectives
-  description: Exciting, fresh, ongoing work !
-  tags:
-    - MEG
-    - LFP
+# - title: Perspectives
+#   subtitle: Brain Networks in Parkinson’s Disease
+#   group: pd-bn
+#   image: images/perspectives.jpg
+#   link: research/bn-perspectives
+#   description: Exciting, fresh, ongoing work !
+#   tags:
+#     - MEG
+#     - LFP
 
 ###########
 # methods #
