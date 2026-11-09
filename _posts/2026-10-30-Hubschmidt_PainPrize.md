@@ -13,7 +13,7 @@ tags:
 <!-- excerpt start -->
 Fabrice Hubschmid won the second prize of the “Förderpreis für Schmerzforschung 2026” from the German Pain Society (Deutsche Schmerzgesellschaft e.V) in the basic research category.
 <!-- excerpt end -->
-Fabrice Hubschmid won the second prize of the “Förderpreis für Schmerzforschung 2026” from the German Pain Society (Deutsche Schmerzgesellschaft e.V) in the basic research category. He was awarded the price for his recent paper "Reward-induced endogenous pain inhibition scales with action-outcome certainty in humans" published in PAIN. 
+He was awarded the price for his recent paper "Reward-induced endogenous pain inhibition scales with action-outcome certainty in humans" published in PAIN. 
 Read more about the research [here](https://doi.org/10.1097/j.pain.0000000000004058)
 Photo: © Ben van Skyhawk
 
