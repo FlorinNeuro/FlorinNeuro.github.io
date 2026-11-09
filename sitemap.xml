@@ -1,295 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-<loc>https://florinneuro.github.io/members/abhinav-sharma.html</loc>
-<lastmod>2026-11-09T14:36:19+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/members/baccara-hizli.html</loc>
-<lastmod>2026-11-09T14:36:19+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/members/bahne-bahners.html</loc>
-<lastmod>2026-11-09T14:36:19+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/members/ben-blankenheim.html</loc>
-<lastmod>2026-11-09T14:36:19+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/members/christian-hochhalter.html</loc>
-<lastmod>2026-11-09T14:36:19+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/members/dzhamilia-aravitska.html</loc>
-<lastmod>2026-11-09T14:36:19+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/members/elisa-hoang.html</loc>
-<lastmod>2026-11-09T14:36:19+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/members/esther-florin.html</loc>
-<lastmod>2026-11-09T14:36:19+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/members/esther-pelzer.html</loc>
-<lastmod>2026-11-09T14:36:19+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/members/fabrice-hubschmid.html</loc>
-<lastmod>2026-11-09T14:36:19+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/members/gelenar-marae.html</loc>
-<lastmod>2026-11-09T14:36:19+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/members/iris-reis.html</loc>
-<lastmod>2026-11-09T14:36:19+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/members/jan-schalla.html</loc>
-<lastmod>2026-11-09T14:36:19+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/members/jantje-bohlen.html</loc>
-<lastmod>2026-11-09T14:36:19+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/members/johanna_schuren.html</loc>
-<lastmod>2026-11-09T14:36:19+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/members/jule_schwegmann.html</loc>
-<lastmod>2026-11-09T14:36:19+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/members/katharina_philippi.html</loc>
-<lastmod>2026-11-09T14:36:19+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/members/kim-koschmieder.html</loc>
-<lastmod>2026-11-09T14:36:19+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/members/kristina_ellenbeck.html</loc>
-<lastmod>2026-11-09T14:36:19+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/members/lena-spitz.html</loc>
-<lastmod>2026-11-09T14:36:19+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/members/levent-kandemir.html</loc>
-<lastmod>2026-11-09T14:36:19+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/members/liv_ebeling.html</loc>
-<lastmod>2026-11-09T14:36:19+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/members/matthias-sure.html</loc>
-<lastmod>2026-11-09T14:36:19+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/members/melissa-yener.html</loc>
-<lastmod>2026-11-09T14:36:19+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/members/oliver-kohl.html</loc>
-<lastmod>2026-11-09T14:36:19+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/members/paul-elsasser.html</loc>
-<lastmod>2026-11-09T14:36:19+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/members/rachel-spooner.html</loc>
-<lastmod>2026-11-09T14:36:19+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/members/rasha-hyder.html</loc>
-<lastmod>2026-11-09T14:36:19+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/members/sean-mertiens.html</loc>
-<lastmod>2026-11-09T14:36:19+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/members/sophie-traebert.html</loc>
-<lastmod>2026-11-09T14:36:19+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/members/thomas-pirenne.html</loc>
-<lastmod>2026-11-09T14:36:19+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/members/tom-schobert.html</loc>
-<lastmod>2026-11-09T14:36:19+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/members/victoria-molinari.html</loc>
-<lastmod>2026-11-09T14:36:19+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/members/xin-feng.html</loc>
-<lastmod>2026-11-09T14:36:19+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/members/yara-engeln.html</loc>
-<lastmod>2026-11-09T14:36:19+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/2024/04/01/CRC-grant-accepted.html</loc>
-<lastmod>2024-04-01T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/2024/07/01/Oliver-joining.html</loc>
-<lastmod>2024-07-01T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/2024/10/01/Bahne-MDS-Award.html</loc>
-<lastmod>2024-10-01T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/2024/10/01/Gelenar-joined.html</loc>
-<lastmod>2024-10-01T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/2024/10/01/Jan-joined.html</loc>
-<lastmod>2024-10-01T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/2024/11/01/headcast-first.html</loc>
-<lastmod>2024-11-01T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/2024/11/09/DGN-2ndPlace-Poster-Gelenar.html</loc>
-<lastmod>2024-11-09T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/2024/12/05/lab-social-christmas.html</loc>
-<lastmod>2024-12-05T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/2025/01/31/FH-publication.html</loc>
-<lastmod>2025-01-31T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/2025/07/16/MEGUKI-2025.html</loc>
-<lastmod>2025-07-16T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/2025/07/18/MEGUKI-price.html</loc>
-<lastmod>2025-07-18T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/2025/07/23/OK-publication.html</loc>
-<lastmod>2025-07-23T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/2025/11/12/Xin-joined.html</loc>
-<lastmod>2025-11-12T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/2025/11/15/BB-DGN-award.html</loc>
-<lastmod>2025-11-15T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/2025/11/24/BB-publication.html</loc>
-<lastmod>2025-11-24T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/2025/12/17/TP-publication.html</loc>
-<lastmod>2025-12-17T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/2026/02/22/DBS-summit.html</loc>
-<lastmod>2026-02-22T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/2026/08/20/Biomag2026-Bejing.html</loc>
-<lastmod>2026-08-20T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/2026/09/20/OliverMEGUKi.html</loc>
-<lastmod>2026-09-20T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/2026/10/30/Hubschmidt_PainPrize.html</loc>
-<lastmod>2026-10-30T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/research/bn-causality.html</loc>
-<lastmod>2026-11-09T14:36:19+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/research/bn-perspectives.html</loc>
-<lastmod>2026-11-09T14:36:19+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/research/bn-rsn.html</loc>
-<lastmod>2026-11-09T14:36:19+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/research/bn-task.html</loc>
-<lastmod>2026-11-09T14:36:19+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/research/dbs-improvement.html</loc>
-<lastmod>2026-11-09T14:36:19+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/research/dbs-perspectives.html</loc>
-<lastmod>2026-11-09T14:36:19+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/research/dbs.html</loc>
-<lastmod>2026-11-09T14:36:19+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/publications/</loc>
-<lastmod>2026-11-09T14:36:19+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/news/</loc>
-<lastmod>2026-11-09T14:36:19+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/research/</loc>
-<lastmod>2026-11-09T14:36:19+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/team/</loc>
-<lastmod>2026-11-09T14:36:19+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/contact/</loc>
-<lastmod>2026-11-09T14:36:19+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/</loc>
-<lastmod>2026-11-09T14:36:19+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/research/nms-cognition.html</loc>
-<lastmod>2026-11-09T14:36:19+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/research/nms-pain.html</loc>
-<lastmod>2026-11-09T14:36:19+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/research/nms-perspectives.html</loc>
-<lastmod>2026-11-09T14:36:19+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/testbed.html</loc>
-<lastmod>2026-11-09T14:36:19+00:00</lastmod>
-</url>
-<url>
-<loc>https://florinneuro.github.io/googledbb6537f57675f1d.html</loc>
-<lastmod>2026-11-09T14:39:38+00:00</lastmod>
-</url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://florinneuro.github.io/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://florinneuro.github.io/research/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://florinneuro.github.io/publications/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://florinneuro.github.io/team/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://florinneuro.github.io/news/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://florinneuro.github.io/contact/</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
 </urlset>
