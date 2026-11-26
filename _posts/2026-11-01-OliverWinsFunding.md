@@ -1,7 +1,7 @@
 ---
 title: Oliver is awarded two year funding!
-author: Jan Schlla
-image: images/news/Engelhorn_Foundation.jpg
+author: Jan Schalla
+image: images/news/Engelhorn_Foundation.png
 last_modified_at: "01.11.2026"
 tags:
   - Grant

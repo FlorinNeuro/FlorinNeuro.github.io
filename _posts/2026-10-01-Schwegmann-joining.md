@@ -1,6 +1,6 @@
 ---
 title: Jule Schwegmann is joining our lab with a scholarship from the German Society for digital medicine
-author: Jan Schlla
+author: Jan Schalla
 image: images/team/Schwegmann.jpg
 last_modified_at: "01.10.2026"
 tags:
