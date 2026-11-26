@@ -1,4 +1,4 @@
-Visit **[florin-neuro.de](http://florin-neuro.de)** 🚀
+Visit **[florinneuro.github.io](https://florinneuro.github.io)** 🚀
 
 <h1 align="center">Lab Website Template</h1>
 <p align="center">
