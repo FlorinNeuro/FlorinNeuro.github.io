@@ -1,6 +1,6 @@
 ---
 title: Fabrice wins price from the German Pain Society
-author: Jan Schlla
+author: Jan Schalla
 image: images/news/Fabrice_PainAward.jpg
 last_modified_at: "30.10.2026"
 tags:
