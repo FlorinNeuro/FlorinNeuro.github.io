@@ -2,7 +2,7 @@
 name: Elisa Hoang
 image: images/team/default.png
 role: undergrad-master
-alumni: false
+alumni: true
 links:
   email: elisa.hoang@med.uni-duesseldorf.de
 ---
